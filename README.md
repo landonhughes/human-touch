@@ -66,7 +66,18 @@ A change in palette, composition, and the treatment of paper and paint.
 
 A scenic portrait and a quieter, silhouette-led character study.
 
-### 05 / Yolo
+### 05 / Polar
+
+*Cute app mascot · transparent illustration*
+
+<table>
+<tr><th width="50%">Without Human Touch</th><th width="50%">With Human Touch</th></tr>
+<tr><td><a href="examples/without-skill/polar-mascot.png"><img src="examples/without-skill/polar-mascot.png" alt="Polar mascot — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/polar-mascot.png"><img src="examples/with-skill/polar-mascot.png" alt="Polar mascot — with Human Touch" width="100%"></a></td></tr>
+</table>
+
+Two friendly greetings for Polar: a softly shaded cartoon and a simpler outlined character with a restrained palette and relaxed expression. Both are transparent PNGs.
+
+### 06 / Yolo
 
 *Energetic sports ad · Hyperframes · 12 seconds*
 
@@ -79,7 +90,7 @@ The same bottle and copy, with different composition and motion direction.
 
 [Watch baseline](examples/without-skill/yolo-ad.mp4) · [Watch Human Touch](examples/with-skill/yolo-ad.mp4) · [Editable Hyperframes projects](examples/yolo/README.md)
 
-### 06 / Sword swing
+### 07 / Sword swing
 
 *Final Fantasy–inspired · 8 frames per sheet*
 
@@ -91,17 +102,6 @@ The same bottle and copy, with different composition and motion direction.
 An original swordswoman in eight attack poses, arranged left to right in a 4 × 2 sheet.
 
 Transparent PNGs. These are generated sprite-sheet studies; pixel-grid, registration, and loop cleanup may be needed before use in a game.
-
-### 07 / Polar
-
-*Cute app mascot · transparent illustration*
-
-<table>
-<tr><th width="50%">Without Human Touch</th><th width="50%">With Human Touch</th></tr>
-<tr><td><a href="examples/without-skill/polar-mascot.png"><img src="examples/without-skill/polar-mascot.png" alt="Polar mascot — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/polar-mascot.png"><img src="examples/with-skill/polar-mascot.png" alt="Polar mascot — with Human Touch" width="100%"></a></td></tr>
-</table>
-
-Two friendly greetings for Polar: a softly shaded cartoon and a simpler outlined character with a restrained palette and relaxed expression. Both are transparent PNGs.
 
 ---
 
