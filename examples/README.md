@@ -1,6 +1,6 @@
 # Human Touch examples
 
-Fourteen briefs, each with a baseline and a version art-directed with [Human Touch](../skills/human-touch/SKILL.md). Click any preview to inspect the original.
+Thirteen briefs, each with a baseline and a version art-directed with [Human Touch](../skills/human-touch/SKILL.md). Click any preview to inspect the original.
 
 | Brief | Without the skill | With Human Touch |
 | --- | --- | --- |
@@ -17,7 +17,6 @@ Fourteen briefs, each with a baseline and a version art-directed with [Human Tou
 | Mellow app icon | ![Baseline Mellow app icon](without-skill/mellow-icon.png) | ![Human Touch Mellow app icon](with-skill/mellow-icon-3d-sky.png) |
 | RealBeef Meatsticks logo | ![Baseline RealBeef logo](without-skill/realbeef-logo.png) | ![Human Touch RealBeef logo](with-skill/realbeef-logo.png) |
 | Yolo sports ad · 12 seconds | [![Yolo baseline animation](without-skill/yolo-ad.gif)](without-skill/yolo-ad.mp4) | [![Yolo Human Touch animation](with-skill/yolo-ad.gif)](with-skill/yolo-ad.mp4) |
-| Sword swing · 16 frames | [![Baseline sword-swing animation](without-skill/sword-swing-smooth.gif)](without-skill/sword-spritesheet.png) | [![Human Touch sword-swing animation](with-skill/sword-swing-smooth.gif)](with-skill/sword-spritesheet.png) |
 
 ## What changes
 
@@ -47,8 +46,6 @@ Fourteen briefs, each with a baseline and a version art-directed with [Human Tou
 
 - **Yolo sports ad:** the same bottle and copy in two energetic 12-second ads. The baseline uses a centered showcase and continuous movement; Human Touch adds track-inspired composition, a held water-break beat, and a larger product reveal. [Source and reproduction](yolo/README.md).
 
-- **Sword swing:** eight poses per transparent sheet in a 4 × 2 arrangement, with the directed version adding explicit silhouette, anatomy, palette, and action-continuity guidance.
-
 ## How these were made
 
 Created September 28, 2026. These are illustrative examples, not a controlled benchmark or a guarantee of improvement.
@@ -60,8 +57,6 @@ These examples were created in the same session, not independent skill-disabled 
 The website examples are static visual mockups, not functioning stores. Names, products, copy, and service claims are fictional concept content. The watercolor images simulate hand-painted work; they are AI-generated images, not physical paintings.
 
 The Yolo pair uses Hyperframes 0.8.84 for both compositions and one shared bottle image generated with the built-in image tool. Human Touch guides only the directed composition. Both were authored in the same session; this demonstrates art-direction choices rather than an isolated skill ablation. Both videos are intentionally silent and make no product-performance claims.
-
-The sword sheets were generated separately with the same character brief and eight-frame layout, adding Human Touch guidance only to the directed prompt. Earlier 64-frame attempts were superseded when the user clarified eight frames per version; only the final eight-frame sheets are included. Both are generated pixel-style studies with transparent backgrounds, not validated game-ready animation assets. The sheets were subsequently sliced with Pillow into eight transparent frames each, aligned using the midpoint of the boots, and assembled into looping GIFs with identical timing. A later revision adds eight new poses generated from each source sheet and interleaves them with the originals to create 16-frame previews. The new poses are generated artwork, not optical-flow blends; a ghosted interpolation experiment was discarded. Both previews use identical timing. Exact pixel grids, proportion differences, and the transition back to the first pose may need cleanup. The character is original and the style references classic 16-bit Final Fantasy combat art.
 
 The Polar mascots use the same app name, waving pose, square format, and transparent-background brief. The directed prompt adds Human Touch illustration guidance about shape language, palette, anatomy, and restraint. Both were generated separately with the built-in image tool in this same session; each first output was retained without retouching. This is a prompt-direction comparison, not an isolated skill-disabled test.
 
@@ -92,8 +87,6 @@ The Lee's SmartHouse pair shares the company brief, core copy, navigation, four 
 - Two Yolo GIF previews: 540 × 540, 15 fps, full 12-second ads, looping for playback directly in GitHub.
 - Two Yolo MP4 ads: H.264, 1080 × 1080, 30 fps, 12 seconds each; poster images are extracted from the videos.
 - [Yolo source projects](yolo/README.md): editable HTML, briefs, design notes, and pinned rendering commands.
-- Two current sword-swing GIFs: 576 × 512, sixteen frames, 1.26-second loops, with transparent backgrounds. [Animation details and original frames](sword/README.md).
-- Two sword-swing PNGs: 1774 × 887, eight poses each, arranged in four columns and two rows, with alpha transparency.
 - Six website and watercolor PNGs: 1536 × 1024.
 - Two square lion PNGs: 1254 × 1254. These are generated pixel-style illustrations, not verified 128 × 128 game sprites. The directed prompt requests a coarse logical grid, but the output retains finer detail and some soft color variation; strict grid and palette compliance are not claimed.
 - [Browser gallery](index.html): open locally; no build or network dependencies.

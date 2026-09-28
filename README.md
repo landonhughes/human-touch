@@ -18,7 +18,7 @@ Human Touch works alongside your creative tools. It helps an agent make delibera
 
 ## The showcase
 
-**Fourteen briefs. Twenty-eight examples.** The left version uses the base workflow; the right adds Human Touch art direction. Click an image to inspect it. Yolo and sword-swing previews animate directly in GitHub; click a preview for its video or source sheet.
+**Thirteen briefs. Twenty-six examples.** The left version uses the base workflow; the right adds Human Touch art direction. Click an image to inspect it. Yolo previews animate directly in GitHub; click one for the full MP4.
 
 These are illustrative comparisons, not a controlled benchmark. [Read the methodology](examples/README.md#how-these-were-made) · [See the exact prompts](examples/prompts.json) · [Open the local gallery](examples/index.html)
 
@@ -166,19 +166,6 @@ A detailed bull illustration and a simpler cattle mark with bold red lettering. 
 The same bottle and copy, with different composition and motion direction.
 
 [Watch baseline](examples/without-skill/yolo-ad.mp4) · [Watch Human Touch](examples/with-skill/yolo-ad.mp4) · [Editable Hyperframes projects](examples/yolo/README.md)
-
-### 14 / Sword swing
-
-*Final Fantasy–inspired · 16-frame animations*
-
-<table>
-<tr><th width="50%">Without Human Touch</th><th width="50%">With Human Touch</th></tr>
-<tr><td><a href="examples/without-skill/sword-spritesheet.png"><img src="examples/without-skill/sword-swing-smooth.gif" alt="Sword swing — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/sword-spritesheet.png"><img src="examples/with-skill/sword-swing-smooth.gif" alt="Sword swing — with Human Touch" width="100%"></a></td></tr>
-</table>
-
-An original swordswoman in eight attack poses, arranged left to right in a 4 × 2 sheet.
-
-Looping GIFs combine the eight original poses with eight newly generated in-betweens, foot alignment, and shorter holds. Click a preview for the original transparent sheet. [Animation details and original frames](examples/sword/README.md). These generated studies retain pose and proportion differences; further animation cleanup may be needed for a game.
 
 ---
 
