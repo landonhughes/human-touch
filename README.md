@@ -61,10 +61,10 @@ A change in palette, composition, and the treatment of paper and paint.
 
 <table>
 <tr><th width="50%">Without Human Touch</th><th width="50%">With Human Touch</th></tr>
-<tr><td><a href="examples/without-skill/house-closing.png"><img src="examples/without-skill/house-closing.png" alt="House closing — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/house-closing-natural.png"><img src="examples/with-skill/house-closing-natural.png" alt="House closing — with Human Touch" width="100%"></a></td></tr>
+<tr><td><a href="examples/without-skill/house-closing.png"><img src="examples/without-skill/house-closing.png" alt="House closing — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/house-closing-relaxed-hand.png"><img src="examples/with-skill/house-closing-relaxed-hand.png" alt="House closing — with Human Touch" width="100%"></a></td></tr>
 </table>
 
-A real estate agent and a happy married couple close on their new home. The baseline captures the signature; the directed image focuses on a shared glance as the agent passes the keys. AI-generated stock-style photography.
+A real estate agent and a happy married couple close on their new home. The baseline captures the signature; the directed image focuses on a shared glance with the keys on the table. AI-generated stock-style photography.
 
 ### 05 / A signal from the shore
 

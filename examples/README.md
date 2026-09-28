@@ -7,7 +7,7 @@ Thirteen briefs, each with a baseline and a version art-directed with [Human Tou
 | Cookie website · pink and black | ![Baseline cookie website](without-skill/cookie-website.png) | ![Human Touch cookie website](with-skill/cookie-website.png) |
 | Shoes website · red and black | ![Baseline shoes website](without-skill/shoes-website.png) | ![Human Touch shoes website](with-skill/shoes-website.png) |
 | Calm watercolor sunset | ![Baseline watercolor sunset](without-skill/watercolor-sunset.png) | ![Human Touch watercolor sunset](with-skill/watercolor-sunset.png) |
-| House closing · stock photography | ![Baseline house closing](without-skill/house-closing.png) | ![Human Touch house closing](with-skill/house-closing-natural.png) |
+| House closing · stock photography | ![Baseline house closing](without-skill/house-closing.png) | ![Human Touch house closing](with-skill/house-closing-relaxed-hand.png) |
 | Coastal character · Oxenfree-inspired | ![Baseline coastal character](without-skill/coastal-character.png) | ![Human Touch coastal character](with-skill/coastal-character.png) |
 | Pixel-art lion | ![Baseline pixel-art lion](without-skill/pixel-art-lion.png) | ![Human Touch pixel-art lion](with-skill/pixel-art-lion.png) |
 | Polar app mascot | ![Baseline Polar mascot](without-skill/polar-mascot.png) | ![Human Touch Polar mascot](with-skill/polar-mascot.png) |
@@ -26,7 +26,7 @@ Thirteen briefs, each with a baseline and a version art-directed with [Human Tou
 
 - **Watercolor:** a brighter, centered sunset becomes a muted coastal study with an off-center sun, quieter sky, and visible paper margins.
 
-- **House closing:** a real estate agent and married couple in a bright home. The baseline shows the signing; Human Touch directs a shared glance after signing, a simple key handoff, natural skin and fabric texture, and consistent window light.
+- **House closing:** a real estate agent and married couple in a bright home. The baseline shows the signing; Human Touch directs a shared glance after signing, a relaxed hand resting beside the keys, natural skin and fabric texture, and consistent window light.
 
 - **Coastal character:** the same original traveler, outfit, radio, and dusk setting, with the directed version emphasizing a relaxed weight shift, an off-center composition, and open shoreline. Both preserve the requested painterly 2D game-art direction.
 
@@ -72,7 +72,7 @@ The mobile-game UI pair uses the same cozy adventure theme and twelve-group cont
 
 The Oversoul capsule pair uses an original hero and Celeste as a style reference. Each was generated in one built-in image-generation call; both first outputs were retained without retouching. The directed prompt adds Human Touch pixel-art and illustration guidance. This is a same-session prompt comparison, not an isolated skill-disabled run. Both are wide capsule-art concepts; exact pixel-grid compliance is not verified. Steam’s [header capsule specification](https://partner.steamgames.com/doc/store/assets/standard) is 920 × 430; these native generated images need final sizing before upload.
 
-The house-closing pair shares the three-adult cast, home setting, closing paperwork, pen, keys, and landscape format. The baseline retains its first built-in image-generation output. The directed image was generated once, then edited using that output as a reference after a request for greater realism. The edit adds natural skin variation, less arranged hair, subtler expressions, and more ordinary photographic lighting. The original directed image is preserved in commit a83f9a9. Human Touch adds photography guidance on expressions, eye lines, hand placement, material behavior, and window light. These depict fictional people and a fictional transaction, not a photographed event. They are same-session prompt comparisons, not independent skill-disabled runs.
+The house-closing pair shares the three-adult cast, home setting, closing paperwork, pen, keys, and landscape format. The baseline retains its first built-in image-generation output. The directed image was generated once, then edited using that output as a reference after a request for greater realism. A second edit corrected the agent’s awkward wrist and curled hand, placing her forearm and relaxed hand on the table beside the keys. The edit adds natural skin variation, less arranged hair, subtler expressions, and more ordinary photographic lighting. The original directed image is preserved in commit a83f9a9; the first realism edit is in commit 15bbf43. Human Touch adds photography guidance on expressions, eye lines, hand placement, material behavior, and window light. These depict fictional people and a fictional transaction, not a photographed event. They are same-session prompt comparisons, not independent skill-disabled runs.
 
 ## Files and reproduction
 
