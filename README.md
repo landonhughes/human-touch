@@ -2,7 +2,7 @@
 
 # Human Touch
 
-### Give generated visuals a point of view.
+### Make AI-Generated Designs look hand-made
 
 A composable art-direction and visual-QA skill for AI agents.
 
