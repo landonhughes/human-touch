@@ -1,12 +1,13 @@
 # Human Touch examples
 
-Twelve briefs, each with a baseline and a version art-directed with [Human Touch](../skills/human-touch/SKILL.md). Click any preview to inspect the original.
+Thirteen briefs, each with a baseline and a version art-directed with [Human Touch](../skills/human-touch/SKILL.md). Click any preview to inspect the original.
 
 | Brief | Without the skill | With Human Touch |
 | --- | --- | --- |
 | Cookie website · pink and black | ![Baseline cookie website](without-skill/cookie-website.png) | ![Human Touch cookie website](with-skill/cookie-website.png) |
 | Shoes website · red and black | ![Baseline shoes website](without-skill/shoes-website.png) | ![Human Touch shoes website](with-skill/shoes-website.png) |
 | Calm watercolor sunset | ![Baseline watercolor sunset](without-skill/watercolor-sunset.png) | ![Human Touch watercolor sunset](with-skill/watercolor-sunset.png) |
+| House closing · stock photography | ![Baseline house closing](without-skill/house-closing.png) | ![Human Touch house closing](with-skill/house-closing.png) |
 | Coastal character · Oxenfree-inspired | ![Baseline coastal character](without-skill/coastal-character.png) | ![Human Touch coastal character](with-skill/coastal-character.png) |
 | Pixel-art lion | ![Baseline pixel-art lion](without-skill/pixel-art-lion.png) | ![Human Touch pixel-art lion](with-skill/pixel-art-lion.png) |
 | Polar app mascot | ![Baseline Polar mascot](without-skill/polar-mascot.png) | ![Human Touch Polar mascot](with-skill/polar-mascot.png) |
@@ -24,6 +25,8 @@ Twelve briefs, each with a baseline and a version art-directed with [Human Touch
 - **Shoes website:** a dramatic floating sneaker becomes a grounded product photograph, with restrained typography and clear category navigation.
 
 - **Watercolor:** a brighter, centered sunset becomes a muted coastal study with an off-center sun, quieter sky, and visible paper margins.
+
+- **House closing:** a real estate agent and married couple in a bright home. The baseline shows the signing; Human Touch directs a shared glance after signing, a simple key handoff, natural skin and fabric texture, and consistent window light.
 
 - **Coastal character:** the same original traveler, outfit, radio, and dusk setting, with the directed version emphasizing a relaxed weight shift, an off-center composition, and open shoreline. Both preserve the requested painterly 2D game-art direction.
 
@@ -69,8 +72,11 @@ The mobile-game UI pair uses the same cozy adventure theme and twelve-group cont
 
 The Oversoul capsule pair uses an original hero and Celeste as a style reference. Each was generated in one built-in image-generation call; both first outputs were retained without retouching. The directed prompt adds Human Touch pixel-art and illustration guidance. This is a same-session prompt comparison, not an isolated skill-disabled run. Both are wide capsule-art concepts; exact pixel-grid compliance is not verified. Steam’s [header capsule specification](https://partner.steamgames.com/doc/store/assets/standard) is 920 × 430; these native generated images need final sizing before upload.
 
+The house-closing pair shares the three-adult cast, home setting, closing paperwork, pen, keys, and landscape format. Each was generated in one built-in image-generation call; both first outputs were retained without retouching. Human Touch adds photography guidance on expressions, eye lines, hand placement, material behavior, and window light. These depict fictional people and a fictional transaction, not a photographed event. They are same-session prompt comparisons, not independent skill-disabled runs.
+
 ## Files and reproduction
 
+- Two house-closing PNGs: 1536 × 1024, opaque AI-generated stock-style photographs.
 - Two Oversoul capsule PNGs: baseline 1832 × 858; Human Touch 1834 × 858, opaque wide artwork.
 - Two mobile-game UI PNGs: 1254 × 1254, twelve groups of controls per presentation sheet.
 - Two coastal character PNGs: 1254 × 1254, standalone 2D illustrations.
