@@ -18,7 +18,7 @@ Human Touch works alongside your creative tools. It helps an agent make delibera
 
 ## The showcase
 
-**Fourteen briefs. Twenty-eight examples.** The left version uses the base workflow; the right adds Human Touch art direction. Click an image to inspect it. Yolo previews animate directly in GitHub; click one for the full MP4.
+**Fourteen briefs. Twenty-eight examples.** The left version uses the base workflow; the right adds Human Touch art direction. Click an image to inspect it. Yolo and sword-swing previews animate directly in GitHub; click a preview for its video or source sheet.
 
 These are illustrative comparisons, not a controlled benchmark. [Read the methodology](examples/README.md#how-these-were-made) · [See the exact prompts](examples/prompts.json) · [Open the local gallery](examples/index.html)
 
@@ -173,12 +173,12 @@ The same bottle and copy, with different composition and motion direction.
 
 <table>
 <tr><th width="50%">Without Human Touch</th><th width="50%">With Human Touch</th></tr>
-<tr><td><a href="examples/without-skill/sword-spritesheet.png"><img src="examples/without-skill/sword-spritesheet.png" alt="Sword swing — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/sword-spritesheet.png"><img src="examples/with-skill/sword-spritesheet.png" alt="Sword swing — with Human Touch" width="100%"></a></td></tr>
+<tr><td><a href="examples/without-skill/sword-spritesheet.png"><img src="examples/without-skill/sword-swing.gif" alt="Sword swing — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/sword-spritesheet.png"><img src="examples/with-skill/sword-swing.gif" alt="Sword swing — with Human Touch" width="100%"></a></td></tr>
 </table>
 
 An original swordswoman in eight attack poses, arranged left to right in a 4 × 2 sheet.
 
-Transparent PNGs. These are generated sprite-sheet studies; pixel-grid, registration, and loop cleanup may be needed before use in a game.
+Looping GIFs play all eight poses with foot alignment and a brief ready/recovery hold. Click a preview for the original transparent sheet. [Individual frames and reproduction](examples/sword/README.md). These generated studies retain pose and proportion differences; further animation cleanup may be needed for a game.
 
 ---
 
