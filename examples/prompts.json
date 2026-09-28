@@ -1,0 +1,66 @@
+[
+  {
+    "key": "cookieWithout",
+    "prompt": "Create a clean cookie website mockup with pink and black. Desktop website screenshot, landscape format.",
+    "file": "without-skill/cookie-website.png"
+  },
+  {
+    "key": "cookieWith",
+    "prompt": "Create a clean cookie website mockup with pink and black. Desktop website screenshot, landscape format. Apply Human Touch art direction: one clear visual opinion, a warm independent bakery with an editorial shop layout. Communicate cookies first, ordering second, navigation quiet. Pale dusty pink paper-like page and near-black typography; product photography is naturally brown cookies with credible irregular crumb, melted chocolate and soft contact shadows, on a pink surface with one broken cookie showing texture. Restrained consistent serif display type and readable sans-serif utility type. An orderly header labeled 'Cookie shop', navigation 'Cookies', 'Our kitchen', 'Bag (0)'. Large left-aligned headline 'A little break. A good cookie.' and a short line 'Small batches. Big chocolate chunks.' One black 'Shop cookies' button. A large grounded cookie photograph balances the text; below, a quiet shop row with three clearly named flavors. Deliberate whitespace, aligned grid, practical page hierarchy. No fake reviews, badges, invented metrics, floating crumbs, gratuitous ornaments or repeated rounded cards. Review structural coherence, legibility, believable food texture and subtract anything without a purpose.",
+    "file": "with-skill/cookie-website.png"
+  },
+  {
+    "key": "shoesWithout",
+    "prompt": "Create a clean 'shoes' website mockup with the colors red and black. Desktop website screenshot, landscape format.",
+    "file": "without-skill/shoes-website.png"
+  },
+  {
+    "key": "shoesWith",
+    "prompt": "Create a clean 'shoes' website mockup with the colors red and black. Desktop website screenshot, landscape format. Apply Human Touch art direction: precise utilitarian footwear catalogue. Hierarchy is shoe first, product name and shopping action second, quiet navigation third. Black background, warm white text and a single rich red product-photo panel. Header 'SHOES' with 'Shop', 'About', 'Bag (0)'. Left-aligned headline 'Made for the everyday.' and supporting copy 'One good pair. Wherever the day goes.' Black and red low-top sneaker shown in a coherent side three-quarter view resting on a surface; believable canvas, stitched panels, connected laces, matte rubber sole and contact shadow, no imitation brand logos. A product caption 'Everyday Low / Black & red' and restrained 'Shop the pair' button. Typography in one consistent grotesk family with firm hierarchy. Below a quiet catalogue strip with useful category links 'Low tops', 'High tops', 'All shoes'. Crisp buildable grid and deliberate open space, no neon glows, floating fragments, fake statistics, fake testimonials or arbitrary decorative cards. Check product geometry, lighting and readable text; subtract elements that do not help someone choose shoes.",
+    "file": "with-skill/shoes-website.png"
+  },
+  {
+    "key": "sunsetWithout",
+    "prompt": "Create a hand-drawn watercolor picture of a sunset using calm colors. Landscape format.",
+    "file": "without-skill/watercolor-sunset.png"
+  },
+  {
+    "key": "sunsetWith",
+    "prompt": "Create a hand-drawn watercolor picture of a sunset using calm colors. Landscape format. Apply Human Touch art direction: a quiet observational watercolor study on cold-pressed ivory paper. Subject is the last peach light at a low coastal horizon, a soft small sun slightly off center, distant muted slate-lavender land and still grey-blue water. Visual hierarchy: warm light at the horizon first, a few broken horizontal water reflections second; broad upper sky remains quiet. Use a controlled palette of dusty peach, diluted rose, lavender grey and muted blue. Hand-laid transparent washes, subtle pigment gathering at a few wet edges, lost-and-found contours, a few visible light pencil construction marks, dry-brush skipping across paper in foreground. Physical pigment and paper behavior rather than uniform texture overlay. Broad economical brush marks and uneven preserved paper margins convey a small painted study; no digital glow, photographic lens effects, hyperrealistic ripples, decorative birds or excessive detail. Preserve calm color and visible handmade decisions. Review the coherent light direction, composition, medium and subtraction before finishing.",
+    "file": "with-skill/watercolor-sunset.png"
+  },
+  {
+    "key": "lionWithout",
+    "prompt": "Create a pixel art image of a lion. Square format.",
+    "file": "without-skill/pixel-art-lion.png"
+  },
+  {
+    "key": "lionWith",
+    "prompt": "Create a pixel art image of a lion. Square format. Apply Human Touch pixel-art direction: an alert adult male lion standing in a relaxed three-quarter side view, full body with all four paws understandable, an attached curved tail ending in a dark tuft, rounded ears emerging from a broad mane. One clear visual opinion: a carefully authored retro adventure-game creature portrait. Lion silhouette first, expressive face second, quiet pale sand background third. Compose generous negative space around the animal with only a short grounded contact shadow; no text or interface. Use a consistent coarse logical pixel grid, like a 128 by 128 pixel artwork displayed at integer scale with nearest-neighbor edges. Build purposeful connected pixel clusters, rhythmic stair-step contours and distinct legs; a compact palette of golden ochre, warm sand, burnt sienna and deep brown with clear value steps. Mane volume described by a few large stepped shapes rather than individual hairs. Light from upper left. Keep muzzle and eyes readable, anatomy coherent within the chunky stylization, and shadow touching the paws. No smooth gradients, soft resampling, 3D gloss, blanket dithering, random single-pixel noise or incompatible pixel sizes. Review silhouette, cluster readability, palette discipline, and pixel-edge consistency; remove details that do not help recognize the lion.",
+    "file": "with-skill/pixel-art-lion.png"
+  },
+  {
+    "key": "yoloWithout",
+    "prompt": "Create a 12-second square energetic sports advertisement for a fictional water bottle called Yolo using Hyperframes. Use the supplied cobalt-blue bottle, the copy GO ALL IN. / TAKE A BREATHER. / GO AGAIN. / Yolo / WATER BOTTLE / MEET YOLO, and silent playback. Do not invent technical product claims. Use Hyperframes guidance without applying Human Touch.",
+    "file": "without-skill/yolo-ad.mp4",
+    "method": "Authored HTML/GSAP composition rendered with Hyperframes 0.8.84, not a generative-video model call.",
+    "source": "yolo/without-skill/index.html"
+  },
+  {
+    "key": "yoloWith",
+    "prompt": "Create a 12-second square energetic sports advertisement for a fictional water bottle called Yolo using Hyperframes. Use the supplied cobalt-blue bottle, the copy GO ALL IN. / TAKE A BREATHER. / GO AGAIN. / Yolo / WATER BOTTLE / MEET YOLO, and silent playback. Do not invent technical product claims. Apply Human Touch: preserve energetic sports direction, organize the frame around track-lane geometry and a clear product silhouette, use effort / water break / return as the pacing arc, maintain the identical bottle, remove unmotivated decoration, and hold the closing call to action.",
+    "file": "with-skill/yolo-ad.mp4",
+    "method": "Authored HTML/GSAP composition rendered with Hyperframes 0.8.84, not a generative-video model call.",
+    "source": "yolo/with-skill/index.html"
+  },
+  {
+    "key": "swordWithout",
+    "prompt": "Create a sprite sheet with EXACTLY EIGHT FRAMES TOTAL arranged in FOUR COLUMNS and TWO ROWS. A girl swinging a sword in classic 16-bit Final Fantasy style. Original young adult female swordswoman with auburn ponytail, blue tunic, brown boots, silver shoulder armor and one silver sword, facing right. Eight consecutive poses of ONE sword attack, read left to right across the top row then left to right across the bottom row: ready, anticipation, raised sword, starting slash, full slash, follow-through, recovery, ready. Landscape canvas, aspect ratio 2:1, with 8 equally sized square cells. One complete character pose per cell. Leave generous transparent padding around every sprite so the sword and hair never cross cell boundaries. Transparent background, no grid lines, no labels or text.",
+    "file": "without-skill/sword-spritesheet.png"
+  },
+  {
+    "key": "swordWith",
+    "prompt": "Create a sprite sheet with EXACTLY EIGHT FRAMES TOTAL arranged in FOUR COLUMNS and TWO ROWS. A girl swinging a sword in classic 16-bit Final Fantasy style. Original young adult female swordswoman with auburn ponytail, blue tunic, brown boots, silver shoulder armor and one silver sword, facing right. Eight consecutive poses of ONE sword attack, read left to right across the top row then left to right across the bottom row: ready, anticipation, raised sword, starting slash, full slash, follow-through, recovery, ready. Landscape canvas, aspect ratio 2:1, with 8 equally sized square cells. One complete character pose per cell. Leave generous transparent padding around every sprite so the sword and hair never cross cell boundaries. Transparent background, no grid lines, no labels or text. Apply Human Touch pixel-art and animation guidance. Use a coherent SNES-era pixel grammar, stepped contours, connected color clusters, a controlled ochre/blue/steel palette and upper-left lighting. Prioritize a readable character silhouette and sword path over fine texture. Preserve identical scale, proportions, costume, sword length and handedness across all eight poses. Keep a stable local ground baseline and pivot in each cell, with a clear weight shift through the hips. Sword remains connected to the gripping hand, arms articulate coherently, ponytail trails the turn. Make anticipation and recovery distinct; use a single restrained slash crescent only in the full-slash frame. The last pose returns to the first guard. No blur, smooth gradients, arbitrary particles, gratuitous outlines or noisy single pixels. Review the eight-frame action as one directed sequence and remove irrelevant detail.",
+    "file": "with-skill/sword-spritesheet.png"
+  }
+]

@@ -6,7 +6,8 @@ Good contributions include:
 
 - new accidental AI visual tells
 - stronger structural-coherence checks
-- better website and video guidance
+- better website, video, 3D-modeling, and pixel-art guidance
+- purpose-specific mesh, material, pixel-grid, and palette review criteria
 - improved interoperability with other visual skills
 - clearer distinctions between intentional style and generated defaults
 

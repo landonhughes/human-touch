@@ -40,6 +40,12 @@ Check people, objects, environments, websites, interfaces, and video for:
 - inconsistent states
 - continuity errors
 - changing product details
+- 3D normals, intersections, material scale, and topology appropriate to use
+- pixel-grid consistency, readable clusters, palette, and sprite registration
+
+For 3D deliverables, review the asset as well as its render where available. For
+pixel art, inspect native-size readability as well as enlarged edges. Do not infer
+export readiness or a strict pixel grid from presentation alone.
 
 ## 3. Physical plausibility
 

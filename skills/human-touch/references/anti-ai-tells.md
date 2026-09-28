@@ -17,6 +17,8 @@ Watch for combinations of:
 - excessive bloom
 - dreamy haze without narrative purpose
 - unnecessarily shallow depth of field
+- inconsistent pixel grids, blurry sprite edges, and unmotivated pixel noise
+- 3D detail that hides weak silhouettes, broken normals, or disconnected parts
 - generic hyper-saturated gradients
 - glossy plastic treatment across unrelated materials
 - meaningless micro-detail

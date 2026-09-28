@@ -37,3 +37,6 @@ Ask:
 - Where can one mark do the work of five?
 
 Do not add universal micro-detail merely because the generator can.
+
+For pixel art, also read [Pixel Art](pixel-art.md) for grid, cluster, palette,
+scaling, and sprite-specific checks.

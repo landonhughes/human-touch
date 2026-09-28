@@ -53,3 +53,7 @@ Ask:
 A valid answer can be functional, emotional, narrative, or stylistic.
 
 The problem is not decorative motion. The problem is unmotivated motion.
+
+For pixel animation, also read [Pixel Art](pixel-art.md) to check frame
+registration, pixel stability, and palette continuity. For animated 3D assets,
+read [3D Modeling](3d-modeling.md) for deformation and asset checks.

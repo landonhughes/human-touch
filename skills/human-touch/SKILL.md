@@ -4,10 +4,11 @@ description: >
   Apply human art direction and visual-quality review whenever creating,
   generating, editing, or reviewing images, illustrations, websites,
   landing pages, web apps, UI mockups, product mockups, marketing graphics,
-  animations, videos, ads, storyboards, icons, renders, or other visual assets.
+  animations, videos, ads, storyboards, icons, 3D models, renders, pixel art,
+  sprites, or other visual assets.
   This is a composable visual-quality layer: use it alongside image-generation,
   web-design, UI, branding, photography, illustration, animation, video,
-  rendering, or motion skills rather than replacing them. Focus on removing
+  3D modeling, pixel-art, rendering, or motion skills rather than replacing them. Focus on removing
   accidental AI-looking visual tendencies, improving intentionality, structural
   coherence, composition, material realism, hierarchy, continuity, pacing,
   restraint, and believable human design decisions while preserving explicit
@@ -43,7 +44,9 @@ Use it whenever an agent is creating, editing, reviewing, or refining:
 - storyboards
 - icons
 - logos
+- 3D models, meshes, sculpts, materials, and scenes
 - 3D-style renders
+- pixel art, sprites, tilesets, and pixel animations
 - diagrams with significant visual styling
 - brand assets
 - marketing creatives
@@ -74,6 +77,10 @@ Examples:
 - "Review this visual."
 - "Make a social ad."
 - "Create an icon set."
+- "Model a low-poly character for a game."
+- "Review this sculpt and its materials."
+- "Draw a pixel-art lion sprite."
+- "Create a seamless pixel-art tileset."
 
 Do not require the user to explicitly say "use Human Touch."
 
@@ -106,6 +113,8 @@ Typical stacks:
 - UI-design + product-design + Human Touch
 - animation + motion-system + Human Touch
 - video-generation + storyboard + Human Touch
+- 3D-modeling + materials/rendering + Human Touch
+- pixel-art tools + sprite/tileset workflow + Human Touch
 
 ## Do not fight intentional style
 
@@ -129,6 +138,8 @@ If the user or another specialized skill intentionally requests:
 - retro-futurism
 - glassmorphism
 - highly polished advertising imagery
+- low-poly geometry, faceted shading, or exaggerated sculpted forms
+- limited palettes, hard pixel edges, or deliberate dithering
 - aggressive motion
 - experimental typography
 - fast editing
@@ -297,6 +308,8 @@ Check:
 - UI state
 - responsive behavior
 - interaction logic
+- mesh silhouette, topology appropriate to use, normals, and material scale
+- pixel-grid consistency, color clusters, and readability at native size
 - animation cause and effect
 - continuity across shots
 - visual pacing
@@ -341,6 +354,8 @@ Use the relevant file:
 - UI/app mockups → `references/ui-design.md`
 - Websites/landing pages → `references/web-design.md`
 - Illustration → `references/illustration.md`
+- 3D models, sculpts, materials, scenes, and renders → [3D modeling](references/3d-modeling.md)
+- Pixel art, sprites, tilesets, and pixel animation → [Pixel art](references/pixel-art.md)
 - Animation/motion → `references/animation.md`
 - Video/storyboards → `references/video-design.md`
 - Typography → `references/typography.md`

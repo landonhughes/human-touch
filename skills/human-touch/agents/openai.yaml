@@ -1,6 +1,6 @@
 interface:
-  display_name: Human Touch
-  short_description: Human art direction and visual QA for generated visuals.
+  display_name: "Human Touch"
+  short_description: "Art direction and QA for visuals, 3D models, and pixel art."
 
 policy:
   products:

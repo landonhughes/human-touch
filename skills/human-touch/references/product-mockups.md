@@ -54,3 +54,6 @@ Preserve the requested brand and visual direction. Use [LIGHT SOURCE],
 [CAMERA POSITION], and [MATERIALS]. Include props only when they support
 context, scale, usage, or composition. Avoid accidental generated-image
 clichés that are not part of the requested art direction.
+
+When a mockup includes an actual 3D asset, also read [3D Modeling](3d-modeling.md)
+for geometry, material, scale, and delivery checks.
