@@ -169,16 +169,16 @@ The same bottle and copy, with different composition and motion direction.
 
 ### 14 / Sword swing
 
-*Final Fantasy–inspired · 8 frames per sheet*
+*Final Fantasy–inspired · 16-frame animations*
 
 <table>
 <tr><th width="50%">Without Human Touch</th><th width="50%">With Human Touch</th></tr>
-<tr><td><a href="examples/without-skill/sword-spritesheet.png"><img src="examples/without-skill/sword-swing.gif" alt="Sword swing — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/sword-spritesheet.png"><img src="examples/with-skill/sword-swing.gif" alt="Sword swing — with Human Touch" width="100%"></a></td></tr>
+<tr><td><a href="examples/without-skill/sword-spritesheet.png"><img src="examples/without-skill/sword-swing-smooth.gif" alt="Sword swing — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/sword-spritesheet.png"><img src="examples/with-skill/sword-swing-smooth.gif" alt="Sword swing — with Human Touch" width="100%"></a></td></tr>
 </table>
 
 An original swordswoman in eight attack poses, arranged left to right in a 4 × 2 sheet.
 
-Looping GIFs play all eight poses with foot alignment and a brief ready/recovery hold. Click a preview for the original transparent sheet. [Individual frames and reproduction](examples/sword/README.md). These generated studies retain pose and proportion differences; further animation cleanup may be needed for a game.
+Looping GIFs combine the eight original poses with eight newly generated in-betweens, foot alignment, and shorter holds. Click a preview for the original transparent sheet. [Animation details and original frames](examples/sword/README.md). These generated studies retain pose and proportion differences; further animation cleanup may be needed for a game.
 
 ---
 
