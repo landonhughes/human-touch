@@ -9,7 +9,7 @@ Eight briefs, each with a baseline and a version art-directed with [Human Touch]
 | Calm watercolor sunset | ![Baseline watercolor sunset](without-skill/watercolor-sunset.png) | ![Human Touch watercolor sunset](with-skill/watercolor-sunset.png) |
 | Pixel-art lion | ![Baseline pixel-art lion](without-skill/pixel-art-lion.png) | ![Human Touch pixel-art lion](with-skill/pixel-art-lion.png) |
 | Polar app mascot | ![Baseline Polar mascot](without-skill/polar-mascot.png) | ![Human Touch Polar mascot](with-skill/polar-mascot.png) |
-| Mellow app icon | ![Baseline Mellow app icon](without-skill/mellow-icon.png) | ![Human Touch Mellow app icon](with-skill/mellow-icon-3d.png) |
+| Mellow app icon | ![Baseline Mellow app icon](without-skill/mellow-icon.png) | ![Human Touch Mellow app icon](with-skill/mellow-icon-3d-sky.png) |
 | Yolo sports ad · 12 seconds | [![Yolo baseline poster](without-skill/yolo-ad-poster.png)](without-skill/yolo-ad.mp4) | [![Yolo Human Touch poster](with-skill/yolo-ad-poster.png)](with-skill/yolo-ad.mp4) |
 | Sword swing · 8 frames | ![Baseline sword-swing sprites](without-skill/sword-spritesheet.png) | ![Human Touch sword-swing sprites](with-skill/sword-spritesheet.png) |
 
@@ -23,7 +23,7 @@ Eight briefs, each with a baseline and a version art-directed with [Human Touch]
 
 - **Polar mascot:** a softly shaded cartoon bear and an outlined illustration with simpler shapes, an ivory-and-blue palette, and a quieter smile. Both wave hello on transparent backgrounds.
 
-- **Mellow app icon:** a fluffy yellow bird against a blue sky and a matte 3D yellow bird on plum. The directed prompt emphasizes a calm pose, coherent volume, matte materials, soft lighting, and readability at small sizes.
+- **Mellow app icon:** a fluffy yellow bird against a blue sky and a matte 3D yellow bird against a blue sky. The directed prompt emphasizes a calm pose, coherent volume, matte materials, soft lighting, and readability at small sizes.
 
 - **Yolo sports ad:** the same bottle and copy in two energetic 12-second ads. The baseline uses a centered showcase and continuous movement; Human Touch adds track-inspired composition, a held water-break beat, and a larger product reveal. [Source and reproduction](yolo/README.md).
 
@@ -45,7 +45,7 @@ The sword sheets were generated separately with the same character brief and eig
 
 The Polar mascots use the same app name, waving pose, square format, and transparent-background brief. The directed prompt adds Human Touch illustration guidance about shape language, palette, anatomy, and restraint. Both were generated separately with the built-in image tool in this same session; each first output was retained without retouching. This is a prompt-direction comparison, not an isolated skill-disabled test.
 
-The Mellow pair shares the yellow-bird app-icon brief, square full-bleed format, and no-text constraint. Both use the built-in image tool. The baseline retains its first output. The directed version was initially flat; after the user clarified that it should remain 3D, it was edited once using that image as a reference. Human Touch guides the rounded forms, connected anatomy, matte material, soft studio lighting, and restrained composition. The exact initial and edit prompts are recorded in prompts.json; the previous reference image is available at commit 1c762c3. This is a same-session prompt comparison, not an isolated skill-disabled test. These are raster icon concepts, not editable 3D models or platform-specific icon bundles.
+The Mellow pair shares the yellow-bird app-icon brief, square full-bleed format, and no-text constraint. Both use the built-in image tool. The baseline retains its first output. The directed version was initially flat; after the user clarified that it should remain 3D, it was edited using that image as a reference, then edited again to add the requested blue sky and soft clouds. Human Touch guides the rounded forms, connected anatomy, matte material, soft studio lighting, and restrained composition. The initial prompt and both edit prompts are recorded in prompts.json; reference images are available at commits 1c762c3 (flat) and 150530f (3D on plum). This is a same-session prompt comparison, not an isolated skill-disabled test. These are raster icon concepts, not editable 3D models or platform-specific icon bundles.
 
 ## Files and reproduction
 
