@@ -72,5 +72,15 @@
     "key": "polarWith",
     "prompt": "Create a cute polar bear mascot for an app called 'Polar'. Friendly full-body cartoon character waving hello, suitable for app onboarding. Square image, centered with space around the entire character, transparent background. No text or watermark.\n\nHuman Touch art direction: Give this character the personality of a quietly encouraging companion. Use a compact pear-shaped body, a small head gently tilted toward its raised paw, short rounded ears, a broad little muzzle, a charcoal nose and simple dot eyes with a subtle warm smile. Keep it recognizable as a polar bear. Make the greeting readable through one lifted paw and a relaxed grounded stance with two clearly separated feet; the other arm rests naturally against its side. Choose a crisp flat 2D editorial-cartoon treatment, warm ivory fur, a single pale ice-blue shadow shape and soft dark-navy contours. Use gently varied purposeful curves, consistent contour weight, controlled asymmetry and generous quiet areas. Prioritize a distinctive silhouette and facial readability at app-icon scale. Keep paw, arm and shoulder connections coherent. Let the pose carry the character; no props, clothing, scenery, sparkles, fur microtexture, shiny 3D effects or decorative badges. Deliver one polished mascot illustration, not a character sheet.",
     "file": "with-skill/polar-mascot.png"
+  },
+  {
+    "key": "mellowWithout",
+    "prompt": "Create an app icon for an app named Mellow featuring a cute yellow bird. Square app-icon artwork, full-bleed background with no baked-in rounded outer corners. One bird, no text, no letters, no watermark.",
+    "file": "without-skill/mellow-icon.png"
+  },
+  {
+    "key": "mellowWith",
+    "prompt": "Create an app icon for an app named Mellow featuring a cute yellow bird. Square app-icon artwork, full-bleed background with no baked-in rounded outer corners. One bird, no text, no letters, no watermark.\n\nApply Human Touch art direction: communicate a gentle, unhurried personality through a single compact bird resting comfortably, seen in side three-quarter view. Use one plump golden-yellow silhouette, a tucked wing described with one simple deeper-ochre shape, a tiny warm-orange beak, and one relaxed dark-brown eye. Give the head a subtle tilt and the tail two short clear feathers; keep the anatomy connected and the silhouette readable at 32 pixels. Flat graphic illustration with confident softly curved shapes, controlled asymmetry, and no outlines unless essential for separation. Place the bird slightly below center on a solid deep muted plum background, with generous breathing room and a clear margin for operating-system icon masks. Use a tightly controlled palette and strong figure-ground contrast. Make calmness come from the pose and shape language, not props or effects. No feathers rendered as microtexture, gradients, gloss, 3D lighting, drop shadows, decorative sparkles, scenery, badges, border, or inset icon tile. Review the icon as one coherent recognizable mark and remove detail that does not help recognition.",
+    "file": "with-skill/mellow-icon.png"
   }
 ]
