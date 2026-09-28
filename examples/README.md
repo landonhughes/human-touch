@@ -7,7 +7,7 @@ Thirteen briefs, each with a baseline and a version art-directed with [Human Tou
 | Cookie website · pink and black | ![Baseline cookie website](without-skill/cookie-website.png) | ![Human Touch cookie website](with-skill/cookie-website.png) |
 | Shoes website · red and black | ![Baseline shoes website](without-skill/shoes-website.png) | ![Human Touch shoes website](with-skill/shoes-website.png) |
 | Calm watercolor sunset | ![Baseline watercolor sunset](without-skill/watercolor-sunset.png) | ![Human Touch watercolor sunset](with-skill/watercolor-sunset.png) |
-| House closing · stock photography | ![Baseline house closing](without-skill/house-closing.png) | ![Human Touch house closing](with-skill/house-closing.png) |
+| House closing · stock photography | ![Baseline house closing](without-skill/house-closing.png) | ![Human Touch house closing](with-skill/house-closing-natural.png) |
 | Coastal character · Oxenfree-inspired | ![Baseline coastal character](without-skill/coastal-character.png) | ![Human Touch coastal character](with-skill/coastal-character.png) |
 | Pixel-art lion | ![Baseline pixel-art lion](without-skill/pixel-art-lion.png) | ![Human Touch pixel-art lion](with-skill/pixel-art-lion.png) |
 | Polar app mascot | ![Baseline Polar mascot](without-skill/polar-mascot.png) | ![Human Touch Polar mascot](with-skill/polar-mascot.png) |
@@ -72,7 +72,7 @@ The mobile-game UI pair uses the same cozy adventure theme and twelve-group cont
 
 The Oversoul capsule pair uses an original hero and Celeste as a style reference. Each was generated in one built-in image-generation call; both first outputs were retained without retouching. The directed prompt adds Human Touch pixel-art and illustration guidance. This is a same-session prompt comparison, not an isolated skill-disabled run. Both are wide capsule-art concepts; exact pixel-grid compliance is not verified. Steam’s [header capsule specification](https://partner.steamgames.com/doc/store/assets/standard) is 920 × 430; these native generated images need final sizing before upload.
 
-The house-closing pair shares the three-adult cast, home setting, closing paperwork, pen, keys, and landscape format. Each was generated in one built-in image-generation call; both first outputs were retained without retouching. Human Touch adds photography guidance on expressions, eye lines, hand placement, material behavior, and window light. These depict fictional people and a fictional transaction, not a photographed event. They are same-session prompt comparisons, not independent skill-disabled runs.
+The house-closing pair shares the three-adult cast, home setting, closing paperwork, pen, keys, and landscape format. The baseline retains its first built-in image-generation output. The directed image was generated once, then edited using that output as a reference after a request for greater realism. The edit adds natural skin variation, less arranged hair, subtler expressions, and more ordinary photographic lighting. The original directed image is preserved in commit a83f9a9. Human Touch adds photography guidance on expressions, eye lines, hand placement, material behavior, and window light. These depict fictional people and a fictional transaction, not a photographed event. They are same-session prompt comparisons, not independent skill-disabled runs.
 
 ## Files and reproduction
 
