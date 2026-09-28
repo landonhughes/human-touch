@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "human-touch",
+  "version": "1.2.0",
+  "description": "Composable human art direction and visual QA for AI agents creating images, websites, UI, product mockups, illustrations, animation, video, and marketing visuals.",
+  "repository": "https://github.com/landonhughes/human-touch",
+  "license": "MIT",
+  "keywords": [
+    "design",
+    "images",
+    "web-design",
+    "video-design",
+    "ui",
+    "mockups",
+    "animation",
+    "art-direction",
+    "visual-design",
+    "human-touch",
+    "image-generation",
+    "visual-qa"
+  ]
+}

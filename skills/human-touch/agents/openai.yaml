@@ -1,0 +1,9 @@
+interface:
+  display_name: Human Touch
+  short_description: Human art direction and visual QA for generated visuals.
+
+policy:
+  products:
+    - CODEX
+    - CHAT
+  allow_implicit_invocation: true
