@@ -4,9 +4,9 @@ Two fictional Yolo water-bottle ads built with **Hyperframes 0.8.84**. Both are 
 
 | Hyperframes only | Hyperframes + Human Touch |
 | --- | --- |
-| [![Baseline](../without-skill/yolo-ad-poster.png)](../without-skill/yolo-ad.mp4) | [![Directed](../with-skill/yolo-ad-poster.png)](../with-skill/yolo-ad.mp4) |
+| [![Baseline](../without-skill/yolo-ad.gif)](../without-skill/yolo-ad.mp4) | [![Directed](../with-skill/yolo-ad.gif)](../with-skill/yolo-ad.mp4) |
 
-Use the [gallery](../index.html) for embedded video playback.
+The GIF previews above animate directly in GitHub. Click either for the full-resolution MP4, or use the [local gallery](../index.html) for video controls. GitHub README pages do not embed the local HTML video player.
 
 ## Shared brief
 
@@ -30,6 +30,14 @@ Both were authored in the same agent session, not independent skill-disabled run
 - [Ad briefs in the prompt manifest](../prompts.json).
 
 Text motion adapts Hyperframes' `line-by-line-slide` registry primitive, with `spring-pop-entrance` and seek-safe GSAP transform patterns. The registry source and lock hash are retained in the baseline project. The directed version adapts the same reveal mechanism with its own layout and timing.
+
+## GitHub previews
+
+The GIFs contain each full 12-second ad at 540 × 540 and 15 fps, with infinite looping. They are conversions of the existing Hyperframes MP4s; the source compositions were not changed.
+
+```sh
+ffmpeg -i yolo-ad.mp4 -filter_complex "fps=15,scale=540:-1:flags=lanczos,split[a][b];[a]palettegen=max_colors=128[p];[b][p]paletteuse=dither=bayer:bayer_scale=3" -loop 0 yolo-ad.gif
+```
 
 ## Reproduce
 

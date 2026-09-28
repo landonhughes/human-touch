@@ -18,7 +18,7 @@ Human Touch works alongside your creative tools. It helps an agent make delibera
 
 ## The showcase
 
-**Eleven briefs. Twenty-two examples.** The left version uses the base workflow; the right adds Human Touch art direction. Click an image to inspect it. Click a Yolo poster to open its video.
+**Eleven briefs. Twenty-two examples.** The left version uses the base workflow; the right adds Human Touch art direction. Click an image to inspect it. Yolo previews animate directly in GitHub; click one for the full MP4.
 
 These are illustrative comparisons, not a controlled benchmark. [Read the methodology](examples/README.md#how-these-were-made) · [See the exact prompts](examples/prompts.json) · [Open the local gallery](examples/index.html)
 
@@ -127,7 +127,7 @@ A detailed bull illustration and a simpler cattle mark with bold red lettering. 
 
 <table>
 <tr><th width="50%">Without Human Touch</th><th width="50%">With Human Touch</th></tr>
-<tr><td><a href="examples/without-skill/yolo-ad.mp4"><img src="examples/without-skill/yolo-ad-poster.png" alt="Yolo — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/yolo-ad.mp4"><img src="examples/with-skill/yolo-ad-poster.png" alt="Yolo — with Human Touch" width="100%"></a></td></tr>
+<tr><td><a href="examples/without-skill/yolo-ad.mp4"><img src="examples/without-skill/yolo-ad.gif" alt="Yolo — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/yolo-ad.mp4"><img src="examples/with-skill/yolo-ad.gif" alt="Yolo — with Human Touch" width="100%"></a></td></tr>
 </table>
 
 The same bottle and copy, with different composition and motion direction.

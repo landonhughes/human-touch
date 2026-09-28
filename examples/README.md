@@ -13,7 +13,7 @@ Eleven briefs, each with a baseline and a version art-directed with [Human Touch
 | Mobile game UI pack | ![Baseline mobile game UI](without-skill/mobile-game-ui.png) | ![Human Touch mobile game UI](with-skill/mobile-game-ui.png) |
 | Mellow app icon | ![Baseline Mellow app icon](without-skill/mellow-icon.png) | ![Human Touch Mellow app icon](with-skill/mellow-icon-3d-sky.png) |
 | RealBeef Meatsticks logo | ![Baseline RealBeef logo](without-skill/realbeef-logo.png) | ![Human Touch RealBeef logo](with-skill/realbeef-logo.png) |
-| Yolo sports ad · 12 seconds | [![Yolo baseline poster](without-skill/yolo-ad-poster.png)](without-skill/yolo-ad.mp4) | [![Yolo Human Touch poster](with-skill/yolo-ad-poster.png)](with-skill/yolo-ad.mp4) |
+| Yolo sports ad · 12 seconds | [![Yolo baseline animation](without-skill/yolo-ad.gif)](without-skill/yolo-ad.mp4) | [![Yolo Human Touch animation](with-skill/yolo-ad.gif)](with-skill/yolo-ad.mp4) |
 | Sword swing · 8 frames | ![Baseline sword-swing sprites](without-skill/sword-spritesheet.png) | ![Human Touch sword-swing sprites](with-skill/sword-spritesheet.png) |
 
 ## What changes
@@ -71,6 +71,7 @@ The mobile-game UI pair uses the same cozy adventure theme and twelve-group cont
 - Two RealBeef logo PNGs: 1254 × 1254, opaque square presentations.
 - Two Mellow app-icon PNGs: 1254 × 1254, opaque square artwork with no baked-in rounded corners.
 - Two Polar mascot PNGs: 1254 × 1254, with alpha transparency.
+- Two Yolo GIF previews: 540 × 540, 15 fps, full 12-second ads, looping for playback directly in GitHub.
 - Two Yolo MP4 ads: H.264, 1080 × 1080, 30 fps, 12 seconds each; poster images are extracted from the videos.
 - [Yolo source projects](yolo/README.md): editable HTML, briefs, design notes, and pinned rendering commands.
 - Two sword-swing PNGs: 1774 × 887, eight poses each, arranged in four columns and two rows, with alpha transparency.
