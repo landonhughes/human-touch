@@ -1,11 +1,12 @@
 # Human Touch examples
 
-Thirteen briefs, each with a baseline and a version art-directed with [Human Touch](../skills/human-touch/SKILL.md). Click any preview to inspect the original.
+Fourteen briefs, each with a baseline and a version art-directed with [Human Touch](../skills/human-touch/SKILL.md). Click any preview to inspect the original.
 
 | Brief | Without the skill | With Human Touch |
 | --- | --- | --- |
 | Cookie website · pink and black | ![Baseline cookie website](without-skill/cookie-website.png) | ![Human Touch cookie website](with-skill/cookie-website.png) |
 | Shoes website · red and black | ![Baseline shoes website](without-skill/shoes-website.png) | ![Human Touch shoes website](with-skill/shoes-website.png) |
+| Lee's SmartHouse website | ![Baseline smart-home website](without-skill/lees-smarthouse.png) | ![Human Touch smart-home website](with-skill/lees-smarthouse.png) |
 | Calm watercolor sunset | ![Baseline watercolor sunset](without-skill/watercolor-sunset.png) | ![Human Touch watercolor sunset](with-skill/watercolor-sunset.png) |
 | House closing · stock photography | ![Baseline house closing](without-skill/house-closing.png) | ![Human Touch house closing](with-skill/house-closing-relaxed-hand.png) |
 | Coastal character · Oxenfree-inspired | ![Baseline coastal character](without-skill/coastal-character.png) | ![Human Touch coastal character](with-skill/coastal-character.png) |
@@ -23,6 +24,8 @@ Thirteen briefs, each with a baseline and a version art-directed with [Human Tou
 - **Cookie website:** a promotional layout becomes a focused shop page with one primary action, simpler navigation, and a visible flavor selection.
 
 - **Shoes website:** a dramatic floating sneaker becomes a grounded product photograph, with restrained typography and clear category navigation.
+
+- **Lee's SmartHouse:** the same brand, headline, primary action, and four smart-home categories. Human Touch adds warm home-improvement art direction, serif headings, unboxed solution summaries, and an explicit planning-to-installation sequence.
 
 - **Watercolor:** a brighter, centered sunset becomes a muted coastal study with an off-center sun, quieter sky, and visible paper margins.
 
@@ -74,8 +77,11 @@ The Oversoul capsule pair uses an original hero and Celeste as a style reference
 
 The house-closing pair shares the three-adult cast, home setting, closing paperwork, pen, keys, and landscape format. The baseline retains its first built-in image-generation output. The directed image was generated once, then edited using that output as a reference after a request for greater realism. A second edit corrected the agent’s awkward wrist and curled hand, placing her forearm and relaxed hand on the table beside the keys. The edit adds natural skin variation, less arranged hair, subtler expressions, and more ordinary photographic lighting. The original directed image is preserved in commit a83f9a9; the first realism edit is in commit 15bbf43. Human Touch adds photography guidance on expressions, eye lines, hand placement, material behavior, and window light. These depict fictional people and a fictional transaction, not a photographed event. They are same-session prompt comparisons, not independent skill-disabled runs.
 
+The Lee's SmartHouse pair shares the company brief, core copy, navigation, four solution categories, and desktop landscape format. Each was created with one built-in image-generation call, with both first outputs retained. The directed prompt adds Human Touch web-design and typography guidance. Both are static raster mockups with fictional concept copy; responsive behavior, navigation, and booking are not implemented. As with the other pairs, this demonstrates added prompt direction in the same session rather than an isolated skill-disabled test.
+
 ## Files and reproduction
 
+- Two Lee's SmartHouse website PNGs: 1536 × 1024, static desktop mockups.
 - Two house-closing PNGs: 1536 × 1024, opaque AI-generated stock-style photographs.
 - Two Oversoul capsule PNGs: baseline 1832 × 858; Human Touch 1834 × 858, opaque wide artwork.
 - Two mobile-game UI PNGs: 1254 × 1254, twelve groups of controls per presentation sheet.

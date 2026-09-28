@@ -18,7 +18,7 @@ Human Touch works alongside your creative tools. It helps an agent make delibera
 
 ## The showcase
 
-**Thirteen briefs. Twenty-six examples.** The left version uses the base workflow; the right adds Human Touch art direction. Click an image to inspect it. Yolo previews animate directly in GitHub; click one for the full MP4.
+**Fourteen briefs. Twenty-eight examples.** The left version uses the base workflow; the right adds Human Touch art direction. Click an image to inspect it. Yolo previews animate directly in GitHub; click one for the full MP4.
 
 These are illustrative comparisons, not a controlled benchmark. [Read the methodology](examples/README.md#how-these-were-made) · [See the exact prompts](examples/prompts.json) · [Open the local gallery](examples/index.html)
 
@@ -44,7 +44,18 @@ A bakery storefront, from a promotional layout to a focused shop page.
 
 Two ways to frame the product: dramatic campaign imagery and a grounded catalogue.
 
-### 03 / A quiet sunset
+### 03 / Lee's SmartHouse
+
+*Connected appliances, lighting, entry & alarms · website mockup*
+
+<table>
+<tr><th width="50%">Without Human Touch</th><th width="50%">With Human Touch</th></tr>
+<tr><td><a href="examples/without-skill/lees-smarthouse.png"><img src="examples/without-skill/lees-smarthouse.png" alt="Lee's SmartHouse website — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/lees-smarthouse.png"><img src="examples/with-skill/lees-smarthouse.png" alt="Lee's SmartHouse website — with Human Touch" width="100%"></a></td></tr>
+</table>
+
+All the bells and whistles, planned around the home. The directed version combines warm interiors, serif headings, compact solution categories, and a clear planning-to-installation sequence.
+
+### 04 / A quiet sunset
 
 *Calm colors · watercolor illustration*
 
@@ -55,7 +66,7 @@ Two ways to frame the product: dramatic campaign imagery and a grounded catalogu
 
 A change in palette, composition, and the treatment of paper and paint.
 
-### 04 / A place to call home
+### 05 / A place to call home
 
 *Real-estate closing · stock photography*
 
@@ -66,7 +77,7 @@ A change in palette, composition, and the treatment of paper and paint.
 
 A real estate agent and a happy married couple close on their new home. The baseline captures the signature; the directed image focuses on a shared glance with the keys on the table. AI-generated stock-style photography.
 
-### 05 / A signal from the shore
+### 06 / A signal from the shore
 
 *Oxenfree-inspired · 2D character illustration*
 
@@ -77,7 +88,7 @@ A real estate agent and a happy married couple close on their new home. The base
 
 An original traveler listening to a radio on a misty coast. The directed composition gives her a more relaxed stance and opens up the shoreline to her right. Both are standalone 2D graphics.
 
-### 06 / The lion
+### 07 / The lion
 
 *Character study · pixel art*
 
@@ -88,7 +99,7 @@ An original traveler listening to a radio on a misty coast. The directed composi
 
 A scenic portrait and a quieter, silhouette-led character study.
 
-### 07 / Polar
+### 08 / Polar
 
 *Cute app mascot · transparent illustration*
 
@@ -99,7 +110,7 @@ A scenic portrait and a quieter, silhouette-led character study.
 
 Two friendly greetings for Polar: a softly shaded cartoon and a simpler outlined character with a restrained palette and relaxed expression. Both are transparent PNGs.
 
-### 08 / Mobile game UI
+### 09 / Mobile game UI
 
 *Cozy adventure game · 2D UI pack*
 
@@ -110,7 +121,7 @@ Two friendly greetings for Polar: a softly shaded cartoon and a simpler outlined
 
 Buttons, sliders, checkboxes, toggles, radio controls, progress, tabs, and a dialogue panel. The directed version uses simpler outlines and a gold primary action within the same green-and-cream theme. These are visual asset sheets, ready for further production work.
 
-### 09 / Oversoul
+### 10 / Oversoul
 
 *Celeste-inspired · Steam capsule art*
 
@@ -121,7 +132,7 @@ Buttons, sliders, checkboxes, toggles, radio controls, progress, tabs, and a dia
 
 A goggle-wearing hero fires electricity from his palms above floating mountain platforms. The directed version pairs a bold pixel title with quieter sky and a distinct airborne silhouette. Wide capsule-art concepts for a 2D pixel-art game.
 
-### 10 / Mellow
+### 11 / Mellow
 
 *Yellow bird · app icon*
 
@@ -132,7 +143,7 @@ A goggle-wearing hero fires electricity from his palms above floating mountain p
 
 A fluffy yellow bird against a blue sky and a matte 3D character with soft lighting against a blue sky. Two interpretations of a friendly app icon, with square artwork ready for platform masking.
 
-### 11 / RealBeef Meatsticks
+### 12 / RealBeef Meatsticks
 
 *Cattle mark & wordmark · logo design*
 
@@ -143,7 +154,7 @@ A fluffy yellow bird against a blue sky and a matte 3D character with soft light
 
 A detailed bull illustration and a simpler cattle mark with bold red lettering. Raster logo concepts for later vector refinement.
 
-### 12 / Yolo
+### 13 / Yolo
 
 *Energetic sports ad · Hyperframes · 12 seconds*
 
@@ -156,7 +167,7 @@ The same bottle and copy, with different composition and motion direction.
 
 [Watch baseline](examples/without-skill/yolo-ad.mp4) · [Watch Human Touch](examples/with-skill/yolo-ad.mp4) · [Editable Hyperframes projects](examples/yolo/README.md)
 
-### 13 / Sword swing
+### 14 / Sword swing
 
 *Final Fantasy–inspired · 8 frames per sheet*
 
