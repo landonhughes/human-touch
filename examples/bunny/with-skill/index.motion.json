@@ -1,0 +1,14 @@
+{
+  "duration": 8,
+  "assertions": [
+    {
+      "kind": "staysInFrame",
+      "selector": "#art"
+    },
+    {
+      "kind": "keepsMoving",
+      "withinSelector": "#bunny-scene",
+      "maxStaticSec": 1.3
+    }
+  ]
+}

@@ -18,7 +18,7 @@ Human Touch works alongside your creative tools. It helps an agent make delibera
 
 ## The showcase
 
-**Eleven briefs. Twenty-two examples.** The left version uses the base workflow; the right adds Human Touch art direction. Click an image to inspect it. Yolo previews animate directly in GitHub; click one for the full MP4.
+**Twelve briefs. Twenty-four examples.** The left version uses the base workflow; the right adds Human Touch art direction. Click an image to inspect it. Yolo previews animate directly in GitHub; click one for the full MP4.
 
 These are illustrative comparisons, not a controlled benchmark. [Read the methodology](examples/README.md#how-these-were-made) · [See the exact prompts](examples/prompts.json) · [Open the local gallery](examples/index.html)
 
@@ -134,7 +134,20 @@ The same bottle and copy, with different composition and motion direction.
 
 [Watch baseline](examples/without-skill/yolo-ad.mp4) · [Watch Human Touch](examples/with-skill/yolo-ad.mp4) · [Editable Hyperframes projects](examples/yolo/README.md)
 
-### 11 / Sword swing
+### 11 / Carrot intermission
+
+*Bunny & magician hat · Hyperframes · seamless 8-second GIF*
+
+<table>
+<tr><th width="50%">Without Human Touch</th><th width="50%">With Human Touch</th></tr>
+<tr><td><a href="examples/without-skill/bunny-loop.gif"><img src="examples/without-skill/bunny-loop.gif" alt="Bunny eating a carrot and hopping through a hat — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/bunny-loop.gif"><img src="examples/with-skill/bunny-loop.gif" alt="Bunny eating a carrot and hopping through a hat — with Human Touch" width="100%"></a></td></tr>
+</table>
+
+Same bunny, carrot, and hat. The directed loop adds anticipation, delayed ears, and a softer landing. Both return to the opening pose and animate directly in GitHub.
+
+[Editable Hyperframes projects & loop checks](examples/bunny/README.md)
+
+### 12 / Sword swing
 
 *Final Fantasy–inspired · 8 frames per sheet*
 
@@ -198,7 +211,8 @@ A rendered image does not validate an editable 3D model. Generated pixel-style a
 | `skills/human-touch/` | Installable skill, invocation metadata, specialist references |
 | `examples/with-skill/` | Human Touch images, videos, and preview posters |
 | `examples/without-skill/` | Baseline images, videos, and preview posters |
-| `examples/yolo/` | Editable Hyperframes compositions and reproduction notes |
+| `examples/yolo/` | Editable Yolo ads and GitHub GIF previews |
+| `examples/bunny/` | Shared bunny artwork, Hyperframes loop projects, and verification |
 | `examples/prompts.json` | Exact prompts and production briefs |
 | `examples/index.html` | Local comparison gallery with video playback |
 | `plugin.json` | Plugin metadata |

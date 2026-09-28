@@ -1,6 +1,6 @@
 # Human Touch examples
 
-Eleven briefs, each with a baseline and a version art-directed with [Human Touch](../skills/human-touch/SKILL.md). Click any preview to inspect the original.
+Twelve briefs, each with a baseline and a version art-directed with [Human Touch](../skills/human-touch/SKILL.md). Click any preview to inspect the original.
 
 | Brief | Without the skill | With Human Touch |
 | --- | --- | --- |
@@ -14,6 +14,7 @@ Eleven briefs, each with a baseline and a version art-directed with [Human Touch
 | Mellow app icon | ![Baseline Mellow app icon](without-skill/mellow-icon.png) | ![Human Touch Mellow app icon](with-skill/mellow-icon-3d-sky.png) |
 | RealBeef Meatsticks logo | ![Baseline RealBeef logo](without-skill/realbeef-logo.png) | ![Human Touch RealBeef logo](with-skill/realbeef-logo.png) |
 | Yolo sports ad · 12 seconds | [![Yolo baseline animation](without-skill/yolo-ad.gif)](without-skill/yolo-ad.mp4) | [![Yolo Human Touch animation](with-skill/yolo-ad.gif)](with-skill/yolo-ad.mp4) |
+| Bunny & magician hat · seamless GIF | ![Baseline bunny loop](without-skill/bunny-loop.gif) | ![Human Touch bunny loop](with-skill/bunny-loop.gif) |
 | Sword swing · 8 frames | ![Baseline sword-swing sprites](without-skill/sword-spritesheet.png) | ![Human Touch sword-swing sprites](with-skill/sword-spritesheet.png) |
 
 ## What changes
@@ -37,6 +38,8 @@ Eleven briefs, each with a baseline and a version art-directed with [Human Touch
 - **RealBeef Meatsticks:** a detailed bull illustration and a simpler cattle mark with bold red lettering. Human Touch directs the shape language, hierarchy, spacing, and restrained palette.
 
 - **Yolo sports ad:** the same bottle and copy in two energetic 12-second ads. The baseline uses a centered showcase and continuous movement; Human Touch adds track-inspired composition, a held water-break beat, and a larger product reveal. [Source and reproduction](yolo/README.md).
+
+- **Bunny loop:** identical vector artwork and an eight-second story, with Human Touch adding anticipation, delayed ear movement, landing compression, and varied nibbling. Both GIFs loop seamlessly. [Editable source and checks](bunny/README.md).
 
 - **Sword swing:** eight poses per transparent sheet in a 4 × 2 arrangement, with the directed version adding explicit silhouette, anatomy, palette, and action-continuity guidance.
 
@@ -64,8 +67,11 @@ The coastal character pair references Oxenfree as a visual style, with an origin
 
 The mobile-game UI pair uses the same cozy adventure theme and twelve-group control brief. Each was created in one built-in image-generation call, with its first result retained. Human Touch adds UI guidance on hierarchy, state distinctions, spacing, and a consistent visual family. These are opaque raster presentation sheets, not sliced sprites, editable vectors, or working widgets. Slider values are visual approximations; touch-target sizes, contrast compliance, nine-slice scaling, and runtime behavior have not been validated.
 
+The bunny pair uses Hyperframes 0.8.85 and original SVG artwork in both versions. The shared source deliberately keeps assets and framing identical; explicit variant branches apply Human Touch timing and secondary motion only to the directed version. Both were authored in this session. See the [bunny source notes](bunny/README.md) for reproducible render commands and loop checks.
+
 ## Files and reproduction
 
+- Two bunny GIFs: 720 × 720, 25 fps, eight seconds, infinite seamless looping.
 - Two mobile-game UI PNGs: 1254 × 1254, twelve groups of controls per presentation sheet.
 - Two coastal character PNGs: 1254 × 1254, standalone 2D illustrations.
 - Two RealBeef logo PNGs: 1254 × 1254, opaque square presentations.
