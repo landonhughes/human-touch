@@ -23,7 +23,7 @@ Eight briefs, each with a baseline and a version art-directed with [Human Touch]
 
 - **Polar mascot:** a softly shaded cartoon bear and an outlined illustration with simpler shapes, an ivory-and-blue palette, and a quieter smile. Both wave hello on transparent backgrounds.
 
-- **Mellow app icon:** a fluffy yellow bird against a blue sky and a simpler yellow silhouette on plum. The directed prompt emphasizes a calm pose, clear shape language, and readability at small sizes.
+- **Mellow app icon:** a fluffy yellow bird against a blue sky and a matte 3D yellow bird on plum. The directed prompt emphasizes a calm pose, coherent volume, matte materials, soft lighting, and readability at small sizes.
 
 - **Yolo sports ad:** the same bottle and copy in two energetic 12-second ads. The baseline uses a centered showcase and continuous movement; Human Touch adds track-inspired composition, a held water-break beat, and a larger product reveal. [Source and reproduction](yolo/README.md).
 
@@ -45,7 +45,7 @@ The sword sheets were generated separately with the same character brief and eig
 
 The Polar mascots use the same app name, waving pose, square format, and transparent-background brief. The directed prompt adds Human Touch illustration guidance about shape language, palette, anatomy, and restraint. Both were generated separately with the built-in image tool in this same session; each first output was retained without retouching. This is a prompt-direction comparison, not an isolated skill-disabled test.
 
-The Mellow pair shares the yellow-bird app-icon brief, square full-bleed format, and no-text constraint. Both were generated with the built-in image tool, one call per version, with each first result retained. Human Touch adds explicit silhouette, palette, and simplification guidance only to the directed prompt. This is a same-session prompt comparison, not an isolated skill-disabled test. The directed output retains slight color variation rather than perfectly flat vector fills. These are raster icon concepts, not platform-specific icon bundles.
+The Mellow pair shares the yellow-bird app-icon brief, square full-bleed format, and no-text constraint. Both use the built-in image tool. The baseline retains its first output. The directed version was initially flat; after the user clarified that it should remain 3D, it was edited once using that image as a reference. Human Touch guides the rounded forms, connected anatomy, matte material, soft studio lighting, and restrained composition. The exact initial and edit prompts are recorded in prompts.json; the previous reference image is available at commit 1c762c3. This is a same-session prompt comparison, not an isolated skill-disabled test. These are raster icon concepts, not editable 3D models or platform-specific icon bundles.
 
 ## Files and reproduction
 

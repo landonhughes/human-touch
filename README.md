@@ -86,7 +86,7 @@ Two friendly greetings for Polar: a softly shaded cartoon and a simpler outlined
 <tr><td><a href="examples/without-skill/mellow-icon.png"><img src="examples/without-skill/mellow-icon.png" alt="Mellow app icon — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/mellow-icon.png"><img src="examples/with-skill/mellow-icon.png" alt="Mellow app icon — with Human Touch" width="100%"></a></td></tr>
 </table>
 
-A fluffy yellow bird against a blue sky and a simpler graphic silhouette on plum. Two interpretations of a friendly app icon, with square artwork ready for platform masking.
+A fluffy yellow bird against a blue sky and a matte 3D character with soft studio lighting on plum. Two interpretations of a friendly app icon, with square artwork ready for platform masking.
 
 ### 07 / Yolo
 
