@@ -1,6 +1,6 @@
 # Human Touch examples
 
-Eight briefs, each with a baseline and a version art-directed with [Human Touch](../skills/human-touch/SKILL.md). Click any preview to inspect the original.
+Nine briefs, each with a baseline and a version art-directed with [Human Touch](../skills/human-touch/SKILL.md). Click any preview to inspect the original.
 
 | Brief | Without the skill | With Human Touch |
 | --- | --- | --- |
@@ -10,6 +10,7 @@ Eight briefs, each with a baseline and a version art-directed with [Human Touch]
 | Pixel-art lion | ![Baseline pixel-art lion](without-skill/pixel-art-lion.png) | ![Human Touch pixel-art lion](with-skill/pixel-art-lion.png) |
 | Polar app mascot | ![Baseline Polar mascot](without-skill/polar-mascot.png) | ![Human Touch Polar mascot](with-skill/polar-mascot.png) |
 | Mellow app icon | ![Baseline Mellow app icon](without-skill/mellow-icon.png) | ![Human Touch Mellow app icon](with-skill/mellow-icon-3d-sky.png) |
+| RealBeef Meatsticks logo | ![Baseline RealBeef logo](without-skill/realbeef-logo.png) | ![Human Touch RealBeef logo](with-skill/realbeef-logo.png) |
 | Yolo sports ad · 12 seconds | [![Yolo baseline poster](without-skill/yolo-ad-poster.png)](without-skill/yolo-ad.mp4) | [![Yolo Human Touch poster](with-skill/yolo-ad-poster.png)](with-skill/yolo-ad.mp4) |
 | Sword swing · 8 frames | ![Baseline sword-swing sprites](without-skill/sword-spritesheet.png) | ![Human Touch sword-swing sprites](with-skill/sword-spritesheet.png) |
 
@@ -24,6 +25,8 @@ Eight briefs, each with a baseline and a version art-directed with [Human Touch]
 - **Polar mascot:** a softly shaded cartoon bear and an outlined illustration with simpler shapes, an ivory-and-blue palette, and a quieter smile. Both wave hello on transparent backgrounds.
 
 - **Mellow app icon:** a fluffy yellow bird against a blue sky and a matte 3D yellow bird against a blue sky. The directed prompt emphasizes a calm pose, coherent volume, matte materials, soft lighting, and readability at small sizes.
+
+- **RealBeef Meatsticks:** a detailed bull illustration and a simpler cattle mark with bold red lettering. Human Touch directs the shape language, hierarchy, spacing, and restrained palette.
 
 - **Yolo sports ad:** the same bottle and copy in two energetic 12-second ads. The baseline uses a centered showcase and continuous movement; Human Touch adds track-inspired composition, a held water-break beat, and a larger product reveal. [Source and reproduction](yolo/README.md).
 
@@ -47,8 +50,11 @@ The Polar mascots use the same app name, waving pose, square format, and transpa
 
 The Mellow pair shares the yellow-bird app-icon brief, square full-bleed format, and no-text constraint. Both use the built-in image tool. The baseline retains its first output. The directed version was initially flat; after the user clarified that it should remain 3D, it was edited using that image as a reference, then edited again to add the requested blue sky and soft clouds. Human Touch guides the rounded forms, connected anatomy, matte material, soft studio lighting, and restrained composition. The initial prompt and both edit prompts are recorded in prompts.json; reference images are available at commits 1c762c3 (flat) and 150530f (3D on plum). This is a same-session prompt comparison, not an isolated skill-disabled test. These are raster icon concepts, not editable 3D models or platform-specific icon bundles.
 
+The RealBeef logos share the company name, square presentation, and warm-white background brief. Each was generated separately with the built-in image tool, with its first output retained. The directed prompt adds Human Touch typography and illustration guidance. Both spell the brand correctly; the directed version renders the descriptor in uppercase. These are same-session prompt comparisons and raster concepts, not finished vector identities. Slight tonal variation remains in the generated artwork; one-color print separations and small packaging applications have not been validated.
+
 ## Files and reproduction
 
+- Two RealBeef logo PNGs: 1254 × 1254, opaque square presentations.
 - Two Mellow app-icon PNGs: 1254 × 1254, opaque square artwork with no baked-in rounded corners.
 - Two Polar mascot PNGs: 1254 × 1254, with alpha transparency.
 - Two Yolo MP4 ads: H.264, 1080 × 1080, 30 fps, 12 seconds each; poster images are extracted from the videos.

@@ -18,7 +18,7 @@ Human Touch works alongside your creative tools. It helps an agent make delibera
 
 ## The showcase
 
-**Eight briefs. Sixteen examples.** The left version uses the base workflow; the right adds Human Touch art direction. Click an image to inspect it. Click a Yolo poster to open its video.
+**Nine briefs. Eighteen examples.** The left version uses the base workflow; the right adds Human Touch art direction. Click an image to inspect it. Click a Yolo poster to open its video.
 
 These are illustrative comparisons, not a controlled benchmark. [Read the methodology](examples/README.md#how-these-were-made) · [See the exact prompts](examples/prompts.json) · [Open the local gallery](examples/index.html)
 
@@ -88,7 +88,18 @@ Two friendly greetings for Polar: a softly shaded cartoon and a simpler outlined
 
 A fluffy yellow bird against a blue sky and a matte 3D character with soft lighting against a blue sky. Two interpretations of a friendly app icon, with square artwork ready for platform masking.
 
-### 07 / Yolo
+### 07 / RealBeef Meatsticks
+
+*Cattle mark & wordmark · logo design*
+
+<table>
+<tr><th width="50%">Without Human Touch</th><th width="50%">With Human Touch</th></tr>
+<tr><td><a href="examples/without-skill/realbeef-logo.png"><img src="examples/without-skill/realbeef-logo.png" alt="RealBeef Meatsticks logo — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/realbeef-logo.png"><img src="examples/with-skill/realbeef-logo.png" alt="RealBeef Meatsticks logo — with Human Touch" width="100%"></a></td></tr>
+</table>
+
+A detailed bull illustration and a simpler cattle mark with bold red lettering. Raster logo concepts for later vector refinement.
+
+### 08 / Yolo
 
 *Energetic sports ad · Hyperframes · 12 seconds*
 
@@ -101,7 +112,7 @@ The same bottle and copy, with different composition and motion direction.
 
 [Watch baseline](examples/without-skill/yolo-ad.mp4) · [Watch Human Touch](examples/with-skill/yolo-ad.mp4) · [Editable Hyperframes projects](examples/yolo/README.md)
 
-### 08 / Sword swing
+### 09 / Sword swing
 
 *Final Fantasy–inspired · 8 frames per sheet*
 
