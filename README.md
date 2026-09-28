@@ -18,7 +18,7 @@ Human Touch works alongside your creative tools. It helps an agent make delibera
 
 ## The showcase
 
-**Nine briefs. Eighteen examples.** The left version uses the base workflow; the right adds Human Touch art direction. Click an image to inspect it. Click a Yolo poster to open its video.
+**Ten briefs. Twenty examples.** The left version uses the base workflow; the right adds Human Touch art direction. Click an image to inspect it. Click a Yolo poster to open its video.
 
 These are illustrative comparisons, not a controlled benchmark. [Read the methodology](examples/README.md#how-these-were-made) · [See the exact prompts](examples/prompts.json) · [Open the local gallery](examples/index.html)
 
@@ -124,6 +124,17 @@ The same bottle and copy, with different composition and motion direction.
 An original swordswoman in eight attack poses, arranged left to right in a 4 × 2 sheet.
 
 Transparent PNGs. These are generated sprite-sheet studies; pixel-grid, registration, and loop cleanup may be needed before use in a game.
+
+### 10 / A signal from the shore
+
+*Oxenfree-inspired · 2D character illustration*
+
+<table>
+<tr><th width="50%">Without Human Touch</th><th width="50%">With Human Touch</th></tr>
+<tr><td><a href="examples/without-skill/coastal-character.png"><img src="examples/without-skill/coastal-character.png" alt="Coastal character illustration — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/coastal-character.png"><img src="examples/with-skill/coastal-character.png" alt="Coastal character illustration — with Human Touch" width="100%"></a></td></tr>
+</table>
+
+An original traveler listening to a radio on a misty coast. The directed composition gives her a more relaxed stance and opens up the shoreline to her right. Both are standalone 2D graphics.
 
 ---
 

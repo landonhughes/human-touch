@@ -1,6 +1,6 @@
 # Human Touch examples
 
-Nine briefs, each with a baseline and a version art-directed with [Human Touch](../skills/human-touch/SKILL.md). Click any preview to inspect the original.
+Ten briefs, each with a baseline and a version art-directed with [Human Touch](../skills/human-touch/SKILL.md). Click any preview to inspect the original.
 
 | Brief | Without the skill | With Human Touch |
 | --- | --- | --- |
@@ -13,6 +13,7 @@ Nine briefs, each with a baseline and a version art-directed with [Human Touch](
 | RealBeef Meatsticks logo | ![Baseline RealBeef logo](without-skill/realbeef-logo.png) | ![Human Touch RealBeef logo](with-skill/realbeef-logo.png) |
 | Yolo sports ad · 12 seconds | [![Yolo baseline poster](without-skill/yolo-ad-poster.png)](without-skill/yolo-ad.mp4) | [![Yolo Human Touch poster](with-skill/yolo-ad-poster.png)](with-skill/yolo-ad.mp4) |
 | Sword swing · 8 frames | ![Baseline sword-swing sprites](without-skill/sword-spritesheet.png) | ![Human Touch sword-swing sprites](with-skill/sword-spritesheet.png) |
+| Coastal character · Oxenfree-inspired | ![Baseline coastal character](without-skill/coastal-character.png) | ![Human Touch coastal character](with-skill/coastal-character.png) |
 
 ## What changes
 
@@ -31,6 +32,8 @@ Nine briefs, each with a baseline and a version art-directed with [Human Touch](
 - **Yolo sports ad:** the same bottle and copy in two energetic 12-second ads. The baseline uses a centered showcase and continuous movement; Human Touch adds track-inspired composition, a held water-break beat, and a larger product reveal. [Source and reproduction](yolo/README.md).
 
 - **Sword swing:** eight poses per transparent sheet in a 4 × 2 arrangement, with the directed version adding explicit silhouette, anatomy, palette, and action-continuity guidance.
+
+- **Coastal character:** the same original traveler, outfit, radio, and dusk setting, with the directed version emphasizing a relaxed weight shift, an off-center composition, and open shoreline. Both preserve the requested painterly 2D game-art direction.
 
 ## How these were made
 
@@ -52,8 +55,11 @@ The Mellow pair shares the yellow-bird app-icon brief, square full-bleed format,
 
 The RealBeef logos share the company name, square presentation, and warm-white background brief. Each was generated separately with the built-in image tool, with its first output retained. The directed prompt adds Human Touch typography and illustration guidance. Both spell the brand correctly; the directed version renders the descriptor in uppercase. These are same-session prompt comparisons and raster concepts, not finished vector identities. Slight tonal variation remains in the generated artwork; one-color print separations and small packaging applications have not been validated.
 
+The coastal character pair references Oxenfree as a visual style, with an original character rather than an extracted game asset. Each graphic was generated separately with the built-in image tool; both first outputs were retained. The directed prompt adds Human Touch illustration guidance about posture, composition, palette, and atmospheric depth. These are standalone raster illustrations, not rigs or layered animation assets. Like the other image pairs, this is a same-session prompt comparison.
+
 ## Files and reproduction
 
+- Two coastal character PNGs: 1254 × 1254, standalone 2D illustrations.
 - Two RealBeef logo PNGs: 1254 × 1254, opaque square presentations.
 - Two Mellow app-icon PNGs: 1254 × 1254, opaque square artwork with no baked-in rounded corners.
 - Two Polar mascot PNGs: 1254 × 1254, with alpha transparency.
