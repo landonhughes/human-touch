@@ -9,7 +9,7 @@ Eight briefs, each with a baseline and a version art-directed with [Human Touch]
 | Calm watercolor sunset | ![Baseline watercolor sunset](without-skill/watercolor-sunset.png) | ![Human Touch watercolor sunset](with-skill/watercolor-sunset.png) |
 | Pixel-art lion | ![Baseline pixel-art lion](without-skill/pixel-art-lion.png) | ![Human Touch pixel-art lion](with-skill/pixel-art-lion.png) |
 | Polar app mascot | ![Baseline Polar mascot](without-skill/polar-mascot.png) | ![Human Touch Polar mascot](with-skill/polar-mascot.png) |
-| Mellow app icon | ![Baseline Mellow app icon](without-skill/mellow-icon.png) | ![Human Touch Mellow app icon](with-skill/mellow-icon.png) |
+| Mellow app icon | ![Baseline Mellow app icon](without-skill/mellow-icon.png) | ![Human Touch Mellow app icon](with-skill/mellow-icon-3d.png) |
 | Yolo sports ad · 12 seconds | [![Yolo baseline poster](without-skill/yolo-ad-poster.png)](without-skill/yolo-ad.mp4) | [![Yolo Human Touch poster](with-skill/yolo-ad-poster.png)](with-skill/yolo-ad.mp4) |
 | Sword swing · 8 frames | ![Baseline sword-swing sprites](without-skill/sword-spritesheet.png) | ![Human Touch sword-swing sprites](with-skill/sword-spritesheet.png) |
 
