@@ -1,6 +1,6 @@
 # Human Touch examples
 
-Thirteen briefs, each with a baseline and a version art-directed with [Human Touch](../skills/human-touch/SKILL.md). Click any preview to inspect the original.
+Fourteen briefs, each with a baseline and a version art-directed with [Human Touch](../skills/human-touch/SKILL.md). Click any preview to inspect the original.
 
 | Brief | Without the skill | With Human Touch |
 | --- | --- | --- |
@@ -12,6 +12,7 @@ Thirteen briefs, each with a baseline and a version art-directed with [Human Tou
 | Coastal character · Oxenfree-inspired | ![Baseline coastal character](without-skill/coastal-character.png) | ![Human Touch coastal character](with-skill/coastal-character.png) |
 | Pixel-art lion | ![Baseline pixel-art lion](without-skill/pixel-art-lion.png) | ![Human Touch pixel-art lion](with-skill/pixel-art-lion.png) |
 | Polar app mascot | ![Baseline Polar mascot](without-skill/polar-mascot.png) | ![Human Touch Polar mascot](with-skill/polar-mascot.png) |
+| Swedish Vallhund · Pixar-style 3D | ![Baseline Vallhund](without-skill/swedish-vallhund.png) | ![Human Touch Vallhund](with-skill/swedish-vallhund.png) |
 | Mobile game UI pack | ![Baseline mobile game UI](without-skill/mobile-game-ui.png) | ![Human Touch mobile game UI](with-skill/mobile-game-ui.png) |
 | Oversoul · Steam capsule art | ![Baseline Oversoul capsule](without-skill/oversoul-capsule.png) | ![Human Touch Oversoul capsule](with-skill/oversoul-capsule.png) |
 | Mellow app icon | ![Baseline Mellow app icon](without-skill/mellow-icon.png) | ![Human Touch Mellow app icon](with-skill/mellow-icon-3d-sky.png) |
@@ -35,6 +36,8 @@ Thirteen briefs, each with a baseline and a version art-directed with [Human Tou
 - **Pixel-art lion:** a scenic sunset portrait becomes an isolated full-body lion, emphasizing the silhouette, separated paws, a grounded shadow, and quieter surroundings.
 
 - **Polar mascot:** a softly shaded cartoon bear and an outlined illustration with simpler shapes, an ivory-and-blue palette, and a quieter smile. Both wave hello on transparent backgrounds.
+
+- **Swedish Vallhund:** a friendly animated-feature dog portrait and a more attentive woodland moment. Human Touch directs pose, breed silhouette, material response, expression, and lighting while retaining the requested 3D style.
 
 - **Mobile game UI:** the same twelve groups of controls and green/cream/gold theme. The baseline uses leafy ornaments and layered edges; Human Touch directs consistent outlines, simpler surfaces, visible state distinctions, and emphasis on the primary action.
 
@@ -74,8 +77,11 @@ The house-closing pair shares the three-adult cast, home setting, closing paperw
 
 The Lee's SmartHouse pair shares the company brief, core copy, navigation, four solution categories, and desktop landscape format. Each was created with one built-in image-generation call, with both first outputs retained. The directed prompt adds Human Touch web-design and typography guidance. Both are static raster mockups with fictional concept copy; responsive behavior, navigation, and booking are not implemented. As with the other pairs, this demonstrates added prompt direction in the same session rather than an isolated skill-disabled test.
 
+The Swedish Vallhund pair shares the breed, full-body view, square format, and Pixar-style 3D brief. Each was generated with one built-in image-generation call, retaining the first output. The directed prompt adds Human Touch character and 3D guidance. These are same-session illustrative prompt comparisons and raster images, not editable 3D models.
+
 ## Files and reproduction
 
+- Two Swedish Vallhund PNGs: 1254 × 1254, opaque 3D-style character illustrations.
 - Two Lee's SmartHouse website PNGs: 1536 × 1024, static desktop mockups.
 - Two house-closing PNGs: 1536 × 1024, opaque AI-generated stock-style photographs.
 - Two Oversoul capsule PNGs: baseline 1832 × 858; Human Touch 1834 × 858, opaque wide artwork.

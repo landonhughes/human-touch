@@ -18,7 +18,7 @@ Human Touch works alongside your creative tools. It helps an agent make delibera
 
 ## The showcase
 
-**Thirteen briefs. Twenty-six examples.** The left version uses the base workflow; the right adds Human Touch art direction. Click an image to inspect it. Yolo previews animate directly in GitHub; click one for the full MP4.
+**Fourteen briefs. Twenty-eight examples.** The left version uses the base workflow; the right adds Human Touch art direction. Click an image to inspect it. Yolo previews animate directly in GitHub; click one for the full MP4.
 
 These are illustrative comparisons, not a controlled benchmark. [Read the methodology](examples/README.md#how-these-were-made) · [See the exact prompts](examples/prompts.json) · [Open the local gallery](examples/index.html)
 
@@ -110,7 +110,18 @@ A scenic portrait and a quieter, silhouette-led character study.
 
 Two friendly greetings for Polar: a softly shaded cartoon and a simpler outlined character with a restrained palette and relaxed expression. Both are transparent PNGs.
 
-### 09 / Mobile game UI
+### 09 / Swedish Vallhund
+
+*Pixar-style · 3D character illustration*
+
+<table>
+<tr><th width="50%">Without Human Touch</th><th width="50%">With Human Touch</th></tr>
+<tr><td><a href="examples/without-skill/swedish-vallhund.png"><img src="examples/without-skill/swedish-vallhund.png" alt="Swedish Vallhund — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/swedish-vallhund.png"><img src="examples/with-skill/swedish-vallhund.png" alt="Swedish Vallhund — with Human Touch" width="100%"></a></td></tr>
+</table>
+
+A friendly little herding dog in two animated-feature interpretations. The directed version adds an attentive head tilt, a quieter expression, and a birch-woodland setting while preserving the breed's long body, short legs, and sable coat.
+
+### 10 / Mobile game UI
 
 *Cozy adventure game · 2D UI pack*
 
@@ -121,7 +132,7 @@ Two friendly greetings for Polar: a softly shaded cartoon and a simpler outlined
 
 Buttons, sliders, checkboxes, toggles, radio controls, progress, tabs, and a dialogue panel. The directed version uses simpler outlines and a gold primary action within the same green-and-cream theme. These are visual asset sheets, ready for further production work.
 
-### 10 / Oversoul
+### 11 / Oversoul
 
 *Celeste-inspired · Steam capsule art*
 
@@ -132,7 +143,7 @@ Buttons, sliders, checkboxes, toggles, radio controls, progress, tabs, and a dia
 
 A goggle-wearing hero fires electricity from his palms above floating mountain platforms. The directed version pairs a bold pixel title with quieter sky and a distinct airborne silhouette. Wide capsule-art concepts for a 2D pixel-art game.
 
-### 11 / Mellow
+### 12 / Mellow
 
 *Yellow bird · app icon*
 
@@ -143,7 +154,7 @@ A goggle-wearing hero fires electricity from his palms above floating mountain p
 
 A fluffy yellow bird against a blue sky and a matte 3D character with soft lighting against a blue sky. Two interpretations of a friendly app icon, with square artwork ready for platform masking.
 
-### 12 / RealBeef Meatsticks
+### 13 / RealBeef Meatsticks
 
 *Cattle mark & wordmark · logo design*
 
@@ -154,7 +165,7 @@ A fluffy yellow bird against a blue sky and a matte 3D character with soft light
 
 A detailed bull illustration and a simpler cattle mark with bold red lettering. Raster logo concepts for later vector refinement.
 
-### 13 / Yolo
+### 14 / Yolo
 
 *Energetic sports ad · Hyperframes · 12 seconds*
 
