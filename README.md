@@ -18,7 +18,7 @@ Human Touch works alongside your creative tools. It helps an agent make delibera
 
 ## The showcase
 
-**Six briefs. Twelve examples.** The left version uses the base workflow; the right adds Human Touch art direction. Click an image to inspect it. Click a Yolo poster to open its video.
+**Seven briefs. Fourteen examples.** The left version uses the base workflow; the right adds Human Touch art direction. Click an image to inspect it. Click a Yolo poster to open its video.
 
 These are illustrative comparisons, not a controlled benchmark. [Read the methodology](examples/README.md#how-these-were-made) · [See the exact prompts](examples/prompts.json) · [Open the local gallery](examples/index.html)
 
@@ -91,6 +91,17 @@ The same bottle and copy, with different composition and motion direction.
 An original swordswoman in eight attack poses, arranged left to right in a 4 × 2 sheet.
 
 Transparent PNGs. These are generated sprite-sheet studies; pixel-grid, registration, and loop cleanup may be needed before use in a game.
+
+### 07 / Polar
+
+*Cute app mascot · transparent illustration*
+
+<table>
+<tr><th width="50%">Without Human Touch</th><th width="50%">With Human Touch</th></tr>
+<tr><td><a href="examples/without-skill/polar-mascot.png"><img src="examples/without-skill/polar-mascot.png" alt="Polar mascot — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/polar-mascot.png"><img src="examples/with-skill/polar-mascot.png" alt="Polar mascot — with Human Touch" width="100%"></a></td></tr>
+</table>
+
+Two friendly greetings for Polar: a softly shaded cartoon and a simpler outlined character with a restrained palette and relaxed expression. Both are transparent PNGs.
 
 ---
 
