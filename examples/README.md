@@ -1,6 +1,6 @@
 # Human Touch examples
 
-Fourteen briefs, each with a baseline and a version art-directed with [Human Touch](../skills/human-touch/SKILL.md). Click any preview to inspect the original.
+Fifteen briefs, each with a baseline and a version art-directed with [Human Touch](../skills/human-touch/SKILL.md). Click any preview to inspect the original.
 
 | Brief | Without the skill | With Human Touch |
 | --- | --- | --- |
@@ -14,6 +14,7 @@ Fourteen briefs, each with a baseline and a version art-directed with [Human Tou
 | Polar app mascot | ![Baseline Polar mascot](without-skill/polar-mascot.png) | ![Human Touch Polar mascot](with-skill/polar-mascot.png) |
 | Swedish Vallhund · Pixar-style 3D | ![Baseline Vallhund](without-skill/swedish-vallhund.png) | ![Human Touch Vallhund](with-skill/swedish-vallhund.png) |
 | Mobile game UI pack | ![Baseline mobile game UI](without-skill/mobile-game-ui.png) | ![Human Touch mobile game UI](with-skill/mobile-game-ui.png) |
+| ReadFree · mobile app | ![Baseline ReadFree app](without-skill/readfree-app.png) | ![Human Touch ReadFree app](with-skill/readfree-app.png) |
 | Oversoul · Steam capsule art | ![Baseline Oversoul capsule](without-skill/oversoul-capsule.png) | ![Human Touch Oversoul capsule](with-skill/oversoul-capsule.png) |
 | Mellow app icon | ![Baseline Mellow app icon](without-skill/mellow-icon.png) | ![Human Touch Mellow app icon](with-skill/mellow-icon-3d-sky.png) |
 | RealBeef Meatsticks logo | ![Baseline RealBeef logo](without-skill/realbeef-logo.png) | ![Human Touch RealBeef logo](with-skill/realbeef-logo.png) |
@@ -40,6 +41,8 @@ Fourteen briefs, each with a baseline and a version art-directed with [Human Tou
 - **Swedish Vallhund:** a friendly animated-feature dog portrait and a more attentive woodland moment. Human Touch directs pose, breed silhouette, material response, expression, and lighting while retaining the requested 3D style.
 
 - **Mobile game UI:** the same twelve groups of controls and green/cream/gold theme. The baseline uses leafy ornaments and layered edges; Human Touch directs consistent outlines, simpler surfaces, visible state distinctions, and emphasis on the primary action.
+
+- **ReadFree:** the same free-reading promise, current book, discovery titles, search, and navigation. Human Touch adds an emphasized reading action, readable list rows, consistent type hierarchy, and a warm paper palette.
 
 - **Oversoul:** the same goggle-wearing hero, palm-fired electricity, mountain setting, and Celeste-inspired pixel-art brief. Human Touch directs a bold title on quiet sky, a separated airborne silhouette, deliberate lightning paths, and controlled pixel clusters.
 
@@ -79,8 +82,11 @@ The Lee's SmartHouse pair shares the company brief, core copy, navigation, four 
 
 The Swedish Vallhund pair shares the breed, full-body view, square format, and Pixar-style 3D brief. Each was generated with one built-in image-generation call, retaining the first output. The directed prompt adds Human Touch character and 3D guidance. These are same-session illustrative prompt comparisons and raster images, not editable 3D models.
 
+The ReadFree pair shares the core copy, book titles and authors, reading progress, and portrait mobile format. Each was generated in one built-in image-generation call, with the first output retained. Human Touch adds UI and typography guidance to the directed prompt. These are static raster concepts with newly generated cover artwork, not a functioning app or an available catalogue. Extra decorative copy in the outputs is generated concept content; the baseline’s attributed quotation was not supplied or verified. This is a same-session prompt comparison, not an isolated skill-disabled test.
+
 ## Files and reproduction
 
+- Two ReadFree app PNGs: baseline 851 × 1848; Human Touch 851 × 1847, portrait mobile mockups.
 - Two Swedish Vallhund PNGs: 1254 × 1254, opaque 3D-style character illustrations.
 - Two Lee's SmartHouse website PNGs: 1536 × 1024, static desktop mockups.
 - Two house-closing PNGs: 1536 × 1024, opaque AI-generated stock-style photographs.

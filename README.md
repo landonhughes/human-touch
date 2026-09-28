@@ -18,7 +18,7 @@ Human Touch works alongside your creative tools. It helps an agent make delibera
 
 ## The showcase
 
-**Fourteen briefs. Twenty-eight examples.** The left version uses the base workflow; the right adds Human Touch art direction. Click an image to inspect it. Yolo previews animate directly in GitHub; click one for the full MP4.
+**Fifteen briefs. Thirty examples.** The left version uses the base workflow; the right adds Human Touch art direction. Click an image to inspect it. Yolo previews animate directly in GitHub; click one for the full MP4.
 
 These are illustrative comparisons, not a controlled benchmark. [Read the methodology](examples/README.md#how-these-were-made) · [See the exact prompts](examples/prompts.json) · [Open the local gallery](examples/index.html)
 
@@ -132,7 +132,18 @@ A friendly little herding dog in two animated-feature interpretations. The direc
 
 Buttons, sliders, checkboxes, toggles, radio controls, progress, tabs, and a dialogue panel. The directed version uses simpler outlines and a gold primary action within the same green-and-cream theme. These are visual asset sheets, ready for further production work.
 
-### 11 / Oversoul
+### 11 / ReadFree
+
+*Read unlimited free books · mobile app mockup*
+
+<table>
+<tr><th width="50%">Without Human Touch</th><th width="50%">With Human Touch</th></tr>
+<tr><td><a href="examples/without-skill/readfree-app.png"><img src="examples/without-skill/readfree-app.png" alt="ReadFree app — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/readfree-app.png"><img src="examples/with-skill/readfree-app.png" alt="ReadFree app — with Human Touch" width="100%"></a></td></tr>
+</table>
+
+Find your next book or pick up where you left off. The directed version emphasizes the reading action, a warm paper palette, and a scannable list of titles and authors. Static app concepts with original cover artwork.
+
+### 12 / Oversoul
 
 *Celeste-inspired · Steam capsule art*
 
@@ -143,7 +154,7 @@ Buttons, sliders, checkboxes, toggles, radio controls, progress, tabs, and a dia
 
 A goggle-wearing hero fires electricity from his palms above floating mountain platforms. The directed version pairs a bold pixel title with quieter sky and a distinct airborne silhouette. Wide capsule-art concepts for a 2D pixel-art game.
 
-### 12 / Mellow
+### 13 / Mellow
 
 *Yellow bird · app icon*
 
@@ -154,7 +165,7 @@ A goggle-wearing hero fires electricity from his palms above floating mountain p
 
 A fluffy yellow bird against a blue sky and a matte 3D character with soft lighting against a blue sky. Two interpretations of a friendly app icon, with square artwork ready for platform masking.
 
-### 13 / RealBeef Meatsticks
+### 14 / RealBeef Meatsticks
 
 *Cattle mark & wordmark · logo design*
 
@@ -165,7 +176,7 @@ A fluffy yellow bird against a blue sky and a matte 3D character with soft light
 
 A detailed bull illustration and a simpler cattle mark with bold red lettering. Raster logo concepts for later vector refinement.
 
-### 14 / Yolo
+### 15 / Yolo
 
 *Energetic sports ad · Hyperframes · 12 seconds*
 
