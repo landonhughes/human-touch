@@ -1,6 +1,6 @@
 # Human Touch examples
 
-Eleven briefs, each with a baseline and a version art-directed with [Human Touch](../skills/human-touch/SKILL.md). Click any preview to inspect the original.
+Twelve briefs, each with a baseline and a version art-directed with [Human Touch](../skills/human-touch/SKILL.md). Click any preview to inspect the original.
 
 | Brief | Without the skill | With Human Touch |
 | --- | --- | --- |
@@ -11,6 +11,7 @@ Eleven briefs, each with a baseline and a version art-directed with [Human Touch
 | Pixel-art lion | ![Baseline pixel-art lion](without-skill/pixel-art-lion.png) | ![Human Touch pixel-art lion](with-skill/pixel-art-lion.png) |
 | Polar app mascot | ![Baseline Polar mascot](without-skill/polar-mascot.png) | ![Human Touch Polar mascot](with-skill/polar-mascot.png) |
 | Mobile game UI pack | ![Baseline mobile game UI](without-skill/mobile-game-ui.png) | ![Human Touch mobile game UI](with-skill/mobile-game-ui.png) |
+| Oversoul · Steam capsule art | ![Baseline Oversoul capsule](without-skill/oversoul-capsule.png) | ![Human Touch Oversoul capsule](with-skill/oversoul-capsule.png) |
 | Mellow app icon | ![Baseline Mellow app icon](without-skill/mellow-icon.png) | ![Human Touch Mellow app icon](with-skill/mellow-icon-3d-sky.png) |
 | RealBeef Meatsticks logo | ![Baseline RealBeef logo](without-skill/realbeef-logo.png) | ![Human Touch RealBeef logo](with-skill/realbeef-logo.png) |
 | Yolo sports ad · 12 seconds | [![Yolo baseline animation](without-skill/yolo-ad.gif)](without-skill/yolo-ad.mp4) | [![Yolo Human Touch animation](with-skill/yolo-ad.gif)](with-skill/yolo-ad.mp4) |
@@ -31,6 +32,8 @@ Eleven briefs, each with a baseline and a version art-directed with [Human Touch
 - **Polar mascot:** a softly shaded cartoon bear and an outlined illustration with simpler shapes, an ivory-and-blue palette, and a quieter smile. Both wave hello on transparent backgrounds.
 
 - **Mobile game UI:** the same twelve groups of controls and green/cream/gold theme. The baseline uses leafy ornaments and layered edges; Human Touch directs consistent outlines, simpler surfaces, visible state distinctions, and emphasis on the primary action.
+
+- **Oversoul:** the same goggle-wearing hero, palm-fired electricity, mountain setting, and Celeste-inspired pixel-art brief. Human Touch directs a bold title on quiet sky, a separated airborne silhouette, deliberate lightning paths, and controlled pixel clusters.
 
 - **Mellow app icon:** a fluffy yellow bird against a blue sky and a matte 3D yellow bird against a blue sky. The directed prompt emphasizes a calm pose, coherent volume, matte materials, soft lighting, and readability at small sizes.
 
@@ -64,8 +67,11 @@ The coastal character pair references Oxenfree as a visual style, with an origin
 
 The mobile-game UI pair uses the same cozy adventure theme and twelve-group control brief. Each was created in one built-in image-generation call, with its first result retained. Human Touch adds UI guidance on hierarchy, state distinctions, spacing, and a consistent visual family. These are opaque raster presentation sheets, not sliced sprites, editable vectors, or working widgets. Slider values are visual approximations; touch-target sizes, contrast compliance, nine-slice scaling, and runtime behavior have not been validated.
 
+The Oversoul capsule pair uses an original hero and Celeste as a style reference. Each was generated in one built-in image-generation call; both first outputs were retained without retouching. The directed prompt adds Human Touch pixel-art and illustration guidance. This is a same-session prompt comparison, not an isolated skill-disabled run. Both are wide capsule-art concepts; exact pixel-grid compliance is not verified. Steam’s [header capsule specification](https://partner.steamgames.com/doc/store/assets/standard) is 920 × 430; these native generated images need final sizing before upload.
+
 ## Files and reproduction
 
+- Two Oversoul capsule PNGs: baseline 1832 × 858; Human Touch 1834 × 858, opaque wide artwork.
 - Two mobile-game UI PNGs: 1254 × 1254, twelve groups of controls per presentation sheet.
 - Two coastal character PNGs: 1254 × 1254, standalone 2D illustrations.
 - Two RealBeef logo PNGs: 1254 × 1254, opaque square presentations.
