@@ -1,29 +1,36 @@
 # Human Touch examples
 
-Ten briefs, each with a baseline and a version art-directed with [Human Touch](../skills/human-touch/SKILL.md). Click any preview to inspect the original.
+Eleven briefs, each with a baseline and a version art-directed with [Human Touch](../skills/human-touch/SKILL.md). Click any preview to inspect the original.
 
 | Brief | Without the skill | With Human Touch |
 | --- | --- | --- |
 | Cookie website · pink and black | ![Baseline cookie website](without-skill/cookie-website.png) | ![Human Touch cookie website](with-skill/cookie-website.png) |
 | Shoes website · red and black | ![Baseline shoes website](without-skill/shoes-website.png) | ![Human Touch shoes website](with-skill/shoes-website.png) |
 | Calm watercolor sunset | ![Baseline watercolor sunset](without-skill/watercolor-sunset.png) | ![Human Touch watercolor sunset](with-skill/watercolor-sunset.png) |
+| Coastal character · Oxenfree-inspired | ![Baseline coastal character](without-skill/coastal-character.png) | ![Human Touch coastal character](with-skill/coastal-character.png) |
 | Pixel-art lion | ![Baseline pixel-art lion](without-skill/pixel-art-lion.png) | ![Human Touch pixel-art lion](with-skill/pixel-art-lion.png) |
 | Polar app mascot | ![Baseline Polar mascot](without-skill/polar-mascot.png) | ![Human Touch Polar mascot](with-skill/polar-mascot.png) |
+| Mobile game UI pack | ![Baseline mobile game UI](without-skill/mobile-game-ui.png) | ![Human Touch mobile game UI](with-skill/mobile-game-ui.png) |
 | Mellow app icon | ![Baseline Mellow app icon](without-skill/mellow-icon.png) | ![Human Touch Mellow app icon](with-skill/mellow-icon-3d-sky.png) |
 | RealBeef Meatsticks logo | ![Baseline RealBeef logo](without-skill/realbeef-logo.png) | ![Human Touch RealBeef logo](with-skill/realbeef-logo.png) |
 | Yolo sports ad · 12 seconds | [![Yolo baseline poster](without-skill/yolo-ad-poster.png)](without-skill/yolo-ad.mp4) | [![Yolo Human Touch poster](with-skill/yolo-ad-poster.png)](with-skill/yolo-ad.mp4) |
 | Sword swing · 8 frames | ![Baseline sword-swing sprites](without-skill/sword-spritesheet.png) | ![Human Touch sword-swing sprites](with-skill/sword-spritesheet.png) |
-| Coastal character · Oxenfree-inspired | ![Baseline coastal character](without-skill/coastal-character.png) | ![Human Touch coastal character](with-skill/coastal-character.png) |
 
 ## What changes
 
 - **Cookie website:** a promotional layout becomes a focused shop page with one primary action, simpler navigation, and a visible flavor selection.
+
 - **Shoes website:** a dramatic floating sneaker becomes a grounded product photograph, with restrained typography and clear category navigation.
+
 - **Watercolor:** a brighter, centered sunset becomes a muted coastal study with an off-center sun, quieter sky, and visible paper margins.
+
+- **Coastal character:** the same original traveler, outfit, radio, and dusk setting, with the directed version emphasizing a relaxed weight shift, an off-center composition, and open shoreline. Both preserve the requested painterly 2D game-art direction.
 
 - **Pixel-art lion:** a scenic sunset portrait becomes an isolated full-body lion, emphasizing the silhouette, separated paws, a grounded shadow, and quieter surroundings.
 
 - **Polar mascot:** a softly shaded cartoon bear and an outlined illustration with simpler shapes, an ivory-and-blue palette, and a quieter smile. Both wave hello on transparent backgrounds.
+
+- **Mobile game UI:** the same twelve groups of controls and green/cream/gold theme. The baseline uses leafy ornaments and layered edges; Human Touch directs consistent outlines, simpler surfaces, visible state distinctions, and emphasis on the primary action.
 
 - **Mellow app icon:** a fluffy yellow bird against a blue sky and a matte 3D yellow bird against a blue sky. The directed prompt emphasizes a calm pose, coherent volume, matte materials, soft lighting, and readability at small sizes.
 
@@ -32,8 +39,6 @@ Ten briefs, each with a baseline and a version art-directed with [Human Touch](.
 - **Yolo sports ad:** the same bottle and copy in two energetic 12-second ads. The baseline uses a centered showcase and continuous movement; Human Touch adds track-inspired composition, a held water-break beat, and a larger product reveal. [Source and reproduction](yolo/README.md).
 
 - **Sword swing:** eight poses per transparent sheet in a 4 × 2 arrangement, with the directed version adding explicit silhouette, anatomy, palette, and action-continuity guidance.
-
-- **Coastal character:** the same original traveler, outfit, radio, and dusk setting, with the directed version emphasizing a relaxed weight shift, an off-center composition, and open shoreline. Both preserve the requested painterly 2D game-art direction.
 
 ## How these were made
 
@@ -57,8 +62,11 @@ The RealBeef logos share the company name, square presentation, and warm-white b
 
 The coastal character pair references Oxenfree as a visual style, with an original character rather than an extracted game asset. Each graphic was generated separately with the built-in image tool; both first outputs were retained. The directed prompt adds Human Touch illustration guidance about posture, composition, palette, and atmospheric depth. These are standalone raster illustrations, not rigs or layered animation assets. Like the other image pairs, this is a same-session prompt comparison.
 
+The mobile-game UI pair uses the same cozy adventure theme and twelve-group control brief. Each was created in one built-in image-generation call, with its first result retained. Human Touch adds UI guidance on hierarchy, state distinctions, spacing, and a consistent visual family. These are opaque raster presentation sheets, not sliced sprites, editable vectors, or working widgets. Slider values are visual approximations; touch-target sizes, contrast compliance, nine-slice scaling, and runtime behavior have not been validated.
+
 ## Files and reproduction
 
+- Two mobile-game UI PNGs: 1254 × 1254, twelve groups of controls per presentation sheet.
 - Two coastal character PNGs: 1254 × 1254, standalone 2D illustrations.
 - Two RealBeef logo PNGs: 1254 × 1254, opaque square presentations.
 - Two Mellow app-icon PNGs: 1254 × 1254, opaque square artwork with no baked-in rounded corners.

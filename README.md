@@ -18,7 +18,7 @@ Human Touch works alongside your creative tools. It helps an agent make delibera
 
 ## The showcase
 
-**Ten briefs. Twenty examples.** The left version uses the base workflow; the right adds Human Touch art direction. Click an image to inspect it. Click a Yolo poster to open its video.
+**Eleven briefs. Twenty-two examples.** The left version uses the base workflow; the right adds Human Touch art direction. Click an image to inspect it. Click a Yolo poster to open its video.
 
 These are illustrative comparisons, not a controlled benchmark. [Read the methodology](examples/README.md#how-these-were-made) · [See the exact prompts](examples/prompts.json) · [Open the local gallery](examples/index.html)
 
@@ -55,7 +55,18 @@ Two ways to frame the product: dramatic campaign imagery and a grounded catalogu
 
 A change in palette, composition, and the treatment of paper and paint.
 
-### 04 / The lion
+### 04 / A signal from the shore
+
+*Oxenfree-inspired · 2D character illustration*
+
+<table>
+<tr><th width="50%">Without Human Touch</th><th width="50%">With Human Touch</th></tr>
+<tr><td><a href="examples/without-skill/coastal-character.png"><img src="examples/without-skill/coastal-character.png" alt="Coastal character illustration — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/coastal-character.png"><img src="examples/with-skill/coastal-character.png" alt="Coastal character illustration — with Human Touch" width="100%"></a></td></tr>
+</table>
+
+An original traveler listening to a radio on a misty coast. The directed composition gives her a more relaxed stance and opens up the shoreline to her right. Both are standalone 2D graphics.
+
+### 05 / The lion
 
 *Character study · pixel art*
 
@@ -66,7 +77,7 @@ A change in palette, composition, and the treatment of paper and paint.
 
 A scenic portrait and a quieter, silhouette-led character study.
 
-### 05 / Polar
+### 06 / Polar
 
 *Cute app mascot · transparent illustration*
 
@@ -77,7 +88,18 @@ A scenic portrait and a quieter, silhouette-led character study.
 
 Two friendly greetings for Polar: a softly shaded cartoon and a simpler outlined character with a restrained palette and relaxed expression. Both are transparent PNGs.
 
-### 06 / Mellow
+### 07 / Mobile game UI
+
+*Cozy adventure game · 2D UI pack*
+
+<table>
+<tr><th width="50%">Without Human Touch</th><th width="50%">With Human Touch</th></tr>
+<tr><td><a href="examples/without-skill/mobile-game-ui.png"><img src="examples/without-skill/mobile-game-ui.png" alt="Mobile game UI pack — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/mobile-game-ui.png"><img src="examples/with-skill/mobile-game-ui.png" alt="Mobile game UI pack — with Human Touch" width="100%"></a></td></tr>
+</table>
+
+Buttons, sliders, checkboxes, toggles, radio controls, progress, tabs, and a dialogue panel. The directed version uses simpler outlines and a gold primary action within the same green-and-cream theme. These are visual asset sheets, ready for further production work.
+
+### 08 / Mellow
 
 *Yellow bird · app icon*
 
@@ -88,7 +110,7 @@ Two friendly greetings for Polar: a softly shaded cartoon and a simpler outlined
 
 A fluffy yellow bird against a blue sky and a matte 3D character with soft lighting against a blue sky. Two interpretations of a friendly app icon, with square artwork ready for platform masking.
 
-### 07 / RealBeef Meatsticks
+### 09 / RealBeef Meatsticks
 
 *Cattle mark & wordmark · logo design*
 
@@ -99,7 +121,7 @@ A fluffy yellow bird against a blue sky and a matte 3D character with soft light
 
 A detailed bull illustration and a simpler cattle mark with bold red lettering. Raster logo concepts for later vector refinement.
 
-### 08 / Yolo
+### 10 / Yolo
 
 *Energetic sports ad · Hyperframes · 12 seconds*
 
@@ -112,7 +134,7 @@ The same bottle and copy, with different composition and motion direction.
 
 [Watch baseline](examples/without-skill/yolo-ad.mp4) · [Watch Human Touch](examples/with-skill/yolo-ad.mp4) · [Editable Hyperframes projects](examples/yolo/README.md)
 
-### 09 / Sword swing
+### 11 / Sword swing
 
 *Final Fantasy–inspired · 8 frames per sheet*
 
@@ -124,17 +146,6 @@ The same bottle and copy, with different composition and motion direction.
 An original swordswoman in eight attack poses, arranged left to right in a 4 × 2 sheet.
 
 Transparent PNGs. These are generated sprite-sheet studies; pixel-grid, registration, and loop cleanup may be needed before use in a game.
-
-### 10 / A signal from the shore
-
-*Oxenfree-inspired · 2D character illustration*
-
-<table>
-<tr><th width="50%">Without Human Touch</th><th width="50%">With Human Touch</th></tr>
-<tr><td><a href="examples/without-skill/coastal-character.png"><img src="examples/without-skill/coastal-character.png" alt="Coastal character illustration — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/coastal-character.png"><img src="examples/with-skill/coastal-character.png" alt="Coastal character illustration — with Human Touch" width="100%"></a></td></tr>
-</table>
-
-An original traveler listening to a radio on a misty coast. The directed composition gives her a more relaxed stance and opens up the shoreline to her right. Both are standalone 2D graphics.
 
 ---
 
