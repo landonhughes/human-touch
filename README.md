@@ -6,10 +6,6 @@ Human Touch is a reusable skill that layers on top of image generation, web desi
 
 Its purpose is not to replace specialized creative skills. It acts as an art-direction and QA layer that helps generated work feel deliberate rather than default-generated.
 
-## Repository
-
-https://github.com/landonhughes/human-touch
-
 ## Install
 
 Use the skill folder:
