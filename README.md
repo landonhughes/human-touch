@@ -2,7 +2,7 @@
 
 # Human Touch
 
-### Make AI-Generated Designs look hand-made
+### Make AI-Generated Designs look less AI-Generated
 
 A composable art-direction and visual-QA skill for AI agents.
 
