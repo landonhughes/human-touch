@@ -28,7 +28,7 @@ These are illustrative comparisons, not a controlled benchmark. [Read the method
 
 <table>
 <tr><th width="50%">Without Human Touch</th><th width="50%">With Human Touch</th></tr>
-<tr><td><a href="examples/without-skill/cookie-website.png"><img src="examples/without-skill/cookie-website.png" alt="Cookie shop — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/cookie-website.png"><img src="examples/with-skill/cookie-website.png" alt="Cookie shop — with Human Touch" width="100%"></a></td></tr>
+<tr><td><a href="examples/without-skill/cookie-website.png"><img src="examples/previews/without-skill/cookie-website.jpg" alt="Cookie shop — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/cookie-website.png"><img src="examples/previews/with-skill/cookie-website.jpg" alt="Cookie shop — with Human Touch" width="100%"></a></td></tr>
 </table>
 
 A bakery storefront, from a promotional layout to a focused shop page.
@@ -39,7 +39,7 @@ A bakery storefront, from a promotional layout to a focused shop page.
 
 <table>
 <tr><th width="50%">Without Human Touch</th><th width="50%">With Human Touch</th></tr>
-<tr><td><a href="examples/without-skill/shoes-website.png"><img src="examples/without-skill/shoes-website.png" alt="Shoes — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/shoes-website.png"><img src="examples/with-skill/shoes-website.png" alt="Shoes — with Human Touch" width="100%"></a></td></tr>
+<tr><td><a href="examples/without-skill/shoes-website.png"><img src="examples/previews/without-skill/shoes-website.jpg" alt="Shoes — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/shoes-website.png"><img src="examples/previews/with-skill/shoes-website.jpg" alt="Shoes — with Human Touch" width="100%"></a></td></tr>
 </table>
 
 Two ways to frame the product: dramatic campaign imagery and a grounded catalogue.
@@ -50,7 +50,7 @@ Two ways to frame the product: dramatic campaign imagery and a grounded catalogu
 
 <table>
 <tr><th width="50%">Without Human Touch</th><th width="50%">With Human Touch</th></tr>
-<tr><td><a href="examples/without-skill/lees-smarthouse.png"><img src="examples/without-skill/lees-smarthouse.png" alt="Lee's SmartHouse website — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/lees-smarthouse.png"><img src="examples/with-skill/lees-smarthouse.png" alt="Lee's SmartHouse website — with Human Touch" width="100%"></a></td></tr>
+<tr><td><a href="examples/without-skill/lees-smarthouse.png"><img src="examples/previews/without-skill/lees-smarthouse.jpg" alt="Lee's SmartHouse website — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/lees-smarthouse.png"><img src="examples/previews/with-skill/lees-smarthouse.jpg" alt="Lee's SmartHouse website — with Human Touch" width="100%"></a></td></tr>
 </table>
 
 All the bells and whistles, planned around the home. The directed version combines warm interiors, serif headings, compact solution categories, and a clear planning-to-installation sequence.
@@ -61,7 +61,7 @@ All the bells and whistles, planned around the home. The directed version combin
 
 <table>
 <tr><th width="50%">Without Human Touch</th><th width="50%">With Human Touch</th></tr>
-<tr><td><a href="examples/without-skill/watercolor-sunset.png"><img src="examples/without-skill/watercolor-sunset.png" alt="A quiet sunset — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/watercolor-sunset.png"><img src="examples/with-skill/watercolor-sunset.png" alt="A quiet sunset — with Human Touch" width="100%"></a></td></tr>
+<tr><td><a href="examples/without-skill/watercolor-sunset.png"><img src="examples/previews/without-skill/watercolor-sunset.jpg" alt="A quiet sunset — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/watercolor-sunset.png"><img src="examples/previews/with-skill/watercolor-sunset.jpg" alt="A quiet sunset — with Human Touch" width="100%"></a></td></tr>
 </table>
 
 A change in palette, composition, and the treatment of paper and paint.
@@ -72,7 +72,7 @@ A change in palette, composition, and the treatment of paper and paint.
 
 <table>
 <tr><th width="50%">Without Human Touch</th><th width="50%">With Human Touch</th></tr>
-<tr><td><a href="examples/without-skill/house-closing.png"><img src="examples/without-skill/house-closing.png" alt="House closing — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/house-closing-relaxed-hand.png"><img src="examples/with-skill/house-closing-relaxed-hand.png" alt="House closing — with Human Touch" width="100%"></a></td></tr>
+<tr><td><a href="examples/without-skill/house-closing.png"><img src="examples/previews/without-skill/house-closing.jpg" alt="House closing — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/house-closing-relaxed-hand.png"><img src="examples/previews/with-skill/house-closing-relaxed-hand.jpg" alt="House closing — with Human Touch" width="100%"></a></td></tr>
 </table>
 
 A real estate agent and a happy married couple close on their new home. The baseline captures the signature; the directed image focuses on a shared glance with the keys on the table. AI-generated stock-style photography.
@@ -83,7 +83,7 @@ A real estate agent and a happy married couple close on their new home. The base
 
 <table>
 <tr><th width="50%">Without Human Touch</th><th width="50%">With Human Touch</th></tr>
-<tr><td><a href="examples/without-skill/coastal-character.png"><img src="examples/without-skill/coastal-character.png" alt="Coastal character illustration — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/coastal-character.png"><img src="examples/with-skill/coastal-character.png" alt="Coastal character illustration — with Human Touch" width="100%"></a></td></tr>
+<tr><td><a href="examples/without-skill/coastal-character.png"><img src="examples/previews/without-skill/coastal-character.jpg" alt="Coastal character illustration — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/coastal-character.png"><img src="examples/previews/with-skill/coastal-character.jpg" alt="Coastal character illustration — with Human Touch" width="100%"></a></td></tr>
 </table>
 
 An original traveler listening to a radio on a misty coast. The directed composition gives her a more relaxed stance and opens up the shoreline to her right. Both are standalone 2D graphics.
@@ -94,7 +94,7 @@ An original traveler listening to a radio on a misty coast. The directed composi
 
 <table>
 <tr><th width="50%">Without Human Touch</th><th width="50%">With Human Touch</th></tr>
-<tr><td><a href="examples/without-skill/pixel-art-lion.png"><img src="examples/without-skill/pixel-art-lion.png" alt="The lion — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/pixel-art-lion.png"><img src="examples/with-skill/pixel-art-lion.png" alt="The lion — with Human Touch" width="100%"></a></td></tr>
+<tr><td><a href="examples/without-skill/pixel-art-lion.png"><img src="examples/previews/without-skill/pixel-art-lion.png" alt="The lion — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/pixel-art-lion.png"><img src="examples/previews/with-skill/pixel-art-lion.png" alt="The lion — with Human Touch" width="100%"></a></td></tr>
 </table>
 
 A scenic portrait and a quieter, silhouette-led character study.
@@ -105,7 +105,7 @@ A scenic portrait and a quieter, silhouette-led character study.
 
 <table>
 <tr><th width="50%">Without Human Touch</th><th width="50%">With Human Touch</th></tr>
-<tr><td><a href="examples/without-skill/polar-mascot.png"><img src="examples/without-skill/polar-mascot.png" alt="Polar mascot — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/polar-mascot.png"><img src="examples/with-skill/polar-mascot.png" alt="Polar mascot — with Human Touch" width="100%"></a></td></tr>
+<tr><td><a href="examples/without-skill/polar-mascot.png"><img src="examples/previews/without-skill/polar-mascot.png" alt="Polar mascot — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/polar-mascot.png"><img src="examples/previews/with-skill/polar-mascot.png" alt="Polar mascot — with Human Touch" width="100%"></a></td></tr>
 </table>
 
 Two friendly greetings for Polar: a softly shaded cartoon and a simpler outlined character with a restrained palette and relaxed expression. Both are transparent PNGs.
@@ -116,7 +116,7 @@ Two friendly greetings for Polar: a softly shaded cartoon and a simpler outlined
 
 <table>
 <tr><th width="50%">Without Human Touch</th><th width="50%">With Human Touch</th></tr>
-<tr><td><a href="examples/without-skill/swedish-vallhund.png"><img src="examples/without-skill/swedish-vallhund.png" alt="Swedish Vallhund — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/swedish-vallhund.png"><img src="examples/with-skill/swedish-vallhund.png" alt="Swedish Vallhund — with Human Touch" width="100%"></a></td></tr>
+<tr><td><a href="examples/without-skill/swedish-vallhund.png"><img src="examples/previews/without-skill/swedish-vallhund.jpg" alt="Swedish Vallhund — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/swedish-vallhund.png"><img src="examples/previews/with-skill/swedish-vallhund.jpg" alt="Swedish Vallhund — with Human Touch" width="100%"></a></td></tr>
 </table>
 
 A friendly little herding dog in two animated-feature interpretations. The directed version adds an attentive head tilt, a quieter expression, and a birch-woodland setting while preserving the breed's long body, short legs, and sable coat.
@@ -127,7 +127,7 @@ A friendly little herding dog in two animated-feature interpretations. The direc
 
 <table>
 <tr><th width="50%">Without Human Touch</th><th width="50%">With Human Touch</th></tr>
-<tr><td><a href="examples/without-skill/mobile-game-ui.png"><img src="examples/without-skill/mobile-game-ui.png" alt="Mobile game UI pack — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/mobile-game-ui.png"><img src="examples/with-skill/mobile-game-ui.png" alt="Mobile game UI pack — with Human Touch" width="100%"></a></td></tr>
+<tr><td><a href="examples/without-skill/mobile-game-ui.png"><img src="examples/previews/without-skill/mobile-game-ui.jpg" alt="Mobile game UI pack — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/mobile-game-ui.png"><img src="examples/previews/with-skill/mobile-game-ui.jpg" alt="Mobile game UI pack — with Human Touch" width="100%"></a></td></tr>
 </table>
 
 Buttons, sliders, checkboxes, toggles, radio controls, progress, tabs, and a dialogue panel. The directed version uses simpler outlines and a gold primary action within the same green-and-cream theme. These are visual asset sheets, ready for further production work.
@@ -138,7 +138,7 @@ Buttons, sliders, checkboxes, toggles, radio controls, progress, tabs, and a dia
 
 <table>
 <tr><th width="50%">Without Human Touch</th><th width="50%">With Human Touch</th></tr>
-<tr><td><a href="examples/without-skill/readfree-app.png"><img src="examples/without-skill/readfree-app.png" alt="ReadFree app — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/readfree-app.png"><img src="examples/with-skill/readfree-app.png" alt="ReadFree app — with Human Touch" width="100%"></a></td></tr>
+<tr><td><a href="examples/without-skill/readfree-app.png"><img src="examples/previews/without-skill/readfree-app.jpg" alt="ReadFree app — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/readfree-app.png"><img src="examples/previews/with-skill/readfree-app.jpg" alt="ReadFree app — with Human Touch" width="100%"></a></td></tr>
 </table>
 
 Find your next book or pick up where you left off. The directed version emphasizes the reading action, a warm paper palette, and a scannable list of titles and authors. Static app concepts with original cover artwork.
@@ -149,7 +149,7 @@ Find your next book or pick up where you left off. The directed version emphasiz
 
 <table>
 <tr><th width="50%">Without Human Touch</th><th width="50%">With Human Touch</th></tr>
-<tr><td><a href="examples/without-skill/oversoul-capsule.png"><img src="examples/without-skill/oversoul-capsule.png" alt="Oversoul Steam capsule — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/oversoul-capsule.png"><img src="examples/with-skill/oversoul-capsule.png" alt="Oversoul Steam capsule — with Human Touch" width="100%"></a></td></tr>
+<tr><td><a href="examples/without-skill/oversoul-capsule.png"><img src="examples/previews/without-skill/oversoul-capsule.png" alt="Oversoul Steam capsule — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/oversoul-capsule.png"><img src="examples/previews/with-skill/oversoul-capsule.png" alt="Oversoul Steam capsule — with Human Touch" width="100%"></a></td></tr>
 </table>
 
 A goggle-wearing hero fires electricity from his palms above floating mountain platforms. The directed version pairs a bold pixel title with quieter sky and a distinct airborne silhouette. Wide capsule-art concepts for a 2D pixel-art game.
@@ -160,7 +160,7 @@ A goggle-wearing hero fires electricity from his palms above floating mountain p
 
 <table>
 <tr><th width="50%">Without Human Touch</th><th width="50%">With Human Touch</th></tr>
-<tr><td><a href="examples/without-skill/mellow-icon.png"><img src="examples/without-skill/mellow-icon.png" alt="Mellow app icon — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/mellow-icon-3d-sky.png"><img src="examples/with-skill/mellow-icon-3d-sky.png" alt="Mellow app icon — with Human Touch" width="100%"></a></td></tr>
+<tr><td><a href="examples/without-skill/mellow-icon.png"><img src="examples/previews/without-skill/mellow-icon.jpg" alt="Mellow app icon — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/mellow-icon-3d-sky.png"><img src="examples/previews/with-skill/mellow-icon-3d-sky.jpg" alt="Mellow app icon — with Human Touch" width="100%"></a></td></tr>
 </table>
 
 A fluffy yellow bird against a blue sky and a matte 3D character with soft lighting against a blue sky. Two interpretations of a friendly app icon, with square artwork ready for platform masking.
@@ -171,7 +171,7 @@ A fluffy yellow bird against a blue sky and a matte 3D character with soft light
 
 <table>
 <tr><th width="50%">Without Human Touch</th><th width="50%">With Human Touch</th></tr>
-<tr><td><a href="examples/without-skill/realbeef-logo.png"><img src="examples/without-skill/realbeef-logo.png" alt="RealBeef Meatsticks logo — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/realbeef-logo.png"><img src="examples/with-skill/realbeef-logo.png" alt="RealBeef Meatsticks logo — with Human Touch" width="100%"></a></td></tr>
+<tr><td><a href="examples/without-skill/realbeef-logo.png"><img src="examples/previews/without-skill/realbeef-logo.jpg" alt="RealBeef Meatsticks logo — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/realbeef-logo.png"><img src="examples/previews/with-skill/realbeef-logo.jpg" alt="RealBeef Meatsticks logo — with Human Touch" width="100%"></a></td></tr>
 </table>
 
 A detailed bull illustration and a simpler cattle mark with bold red lettering. Raster logo concepts for later vector refinement.
@@ -182,7 +182,7 @@ A detailed bull illustration and a simpler cattle mark with bold red lettering. 
 
 <table>
 <tr><th width="50%">Without Human Touch</th><th width="50%">With Human Touch</th></tr>
-<tr><td><a href="examples/without-skill/yolo-ad.mp4"><img src="examples/without-skill/yolo-ad.gif" alt="Yolo — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/yolo-ad.mp4"><img src="examples/with-skill/yolo-ad.gif" alt="Yolo — with Human Touch" width="100%"></a></td></tr>
+<tr><td><a href="examples/without-skill/yolo-ad.mp4"><img src="examples/previews/without-skill/yolo-ad.gif" alt="Yolo — without Human Touch" width="100%"></a></td><td><a href="examples/with-skill/yolo-ad.mp4"><img src="examples/previews/with-skill/yolo-ad.gif" alt="Yolo — with Human Touch" width="100%"></a></td></tr>
 </table>
 
 The same bottle and copy, with different composition and motion direction.

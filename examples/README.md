@@ -86,6 +86,8 @@ The ReadFree pair shares the core copy, book titles and authors, reading progres
 
 ## Files and reproduction
 
+The repository README displays smaller JPEG, PNG, and looping GIF previews while each image links to its original. The local gallery and source examples retain their full-size files. Rebuild README previews with `python3 scripts/build-readme-previews.py` from the repository root (requires Pillow and ffmpeg).
+
 - Two ReadFree app PNGs: baseline 851 × 1848; Human Touch 851 × 1847, portrait mobile mockups.
 - Two Swedish Vallhund PNGs: 1254 × 1254, opaque 3D-style character illustrations.
 - Two Lee's SmartHouse website PNGs: 1536 × 1024, static desktop mockups.
